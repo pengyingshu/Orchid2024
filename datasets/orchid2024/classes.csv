@@ -1,0 +1,1276 @@
+﻿ID,Cultivar Name,Specie Name,Cultivar Chinese Name,Specie Chinese Name,Count
+class0000,C. goeringii 'Qi Cai Yun Nan',C. goeringii,七彩云南春兰,春兰,21
+class0001,C. goeringii 'Qi Cai Xin Chang',C. goeringii,七彩新昌春兰,春兰,208
+class0002,C. goeringii 'Wan Zi Wai Die',C. goeringii,万字外蝶春兰,春兰,17
+class0003,C. goeringii 'Wan Zi',C. goeringii,万字春兰,春兰,434
+class0004,C. goeringii 'Wan Nian Mei',C. goeringii,万年梅春兰,春兰,42
+class0005,C. goeringii 'Wan Chun Mei',C. goeringii,万春梅春兰,春兰,10
+class0006,C. goeringii 'Wan Tai Mei',C. goeringii,万泰梅春兰,春兰,22
+class0007,C. goeringii 'Wan Hong Su',C. goeringii,万红素春兰,春兰,195
+class0008,C. goeringii 'Wan Qing He',C. goeringii,万青荷春兰,春兰,153
+class0009,C. goeringii 'San Yuan',C. goeringii,三元春兰,春兰,14
+class0010,C. goeringii 'San Sheng',C. goeringii,三圣春兰,春兰,169
+class0011,C. goeringii 'San Xing Die',C. goeringii,三星蝶春兰,春兰,46
+class0012,C. goeringii 'San She Qi Hua',C. goeringii,三舌奇花春兰,春兰,12
+class0013,C. goeringii 'San Long Su',C. goeringii,三龙素春兰,春兰,185
+class0014,C. goeringii 'Shang Pin Yuan Mei',C. goeringii,上品圆梅春兰,春兰,139
+class0015,C. goeringii 'Shi Ji Li Hua',C. goeringii,世纪礼花春兰,春兰,13
+class0016,C. goeringii 'Dong Fang Ming Zhu',C. goeringii,东方明珠春兰,春兰,125
+class0017,C. goeringii 'Dong Fang Mei',C. goeringii,东方梅春兰,春兰,36
+class0018,C. goeringii 'Dong Fang Hong Zuan',C. goeringii,东方红钻春兰,春兰,57
+class0019,C. goeringii 'Dong Fang Xiong Ying',C. goeringii,东方雄鹰春兰,春兰,29
+class0020,C. goeringii 'Dong Jiang Da Mei',C. goeringii,东江大梅春兰,春兰,26
+class0021,C. goeringii 'Zhong Xing Mei',C. goeringii,中兴梅春兰,春兰,19
+class0022,C. goeringii 'Zhong Hua Yi Pin Mei',C. goeringii,中华一品梅春兰,春兰,198
+class0023,C. goeringii 'Zhong Hua Li He',C. goeringii,中华丽荷春兰,春兰,286
+class0024,C. goeringii 'Zhong Hua Shuang Jiao',C. goeringii,中华双娇春兰,春兰,40
+class0025,C. goeringii 'Zhong Hua Mu Dan',C. goeringii,中华牡丹春兰,春兰,141
+class0026,C. goeringii 'Zhong Hua Bai Gong',C. goeringii,中华白宫春兰,春兰,27
+class0027,C. goeringii 'Zhong Hua He Ding',C. goeringii,中华荷鼎春兰,春兰,16
+class0028,C. goeringii 'Zhong Hua Qi Lin',C. goeringii,中华麒麟春兰,春兰,16
+class0029,C. goeringii 'Lin An Mu Dan',C. goeringii,临安牡丹春兰,春兰,25
+class0030,C. goeringii 'Jiu Hong',C. goeringii,久红春兰,春兰,57
+class0031,C. goeringii 'Wu Meng Mu Dan',C. goeringii,乌蒙牡丹春兰,春兰,237
+class0032,C. goeringii 'Wu Meng Bai Cai',C. goeringii,乌蒙白彩春兰,春兰,434
+class0033,C. goeringii 'Wu Meng Xiong Shi',C. goeringii,乌蒙雄狮春兰,春兰,120
+class0034,C. goeringii 'Jiu Xian Mu Dan',C. goeringii,九仙牡丹春兰,春兰,240
+class0035,C. goeringii 'Jiu Zhang Mei',C. goeringii,九章梅春兰,春兰,101
+class0036,C. goeringii 'Jiu Long Mei',C. goeringii,九龙梅春兰,春兰,154
+class0037,C. goeringii 'Yun Shang Cai Hong',C. goeringii,云上彩虹春兰,春兰,104
+class0038,C. goeringii 'Yun He He Die',C. goeringii,云和荷蝶春兰,春兰,13
+class0039,C. goeringii 'Yun Xiu',C. goeringii,云秀春兰,春兰,27
+class0040,C. goeringii 'Yun Long Su Die',C. goeringii,云龙素蝶春兰,春兰,28
+class0041,C. goeringii 'Wu Cai Huang Guan',C. goeringii,五彩皇冠春兰,春兰,19
+class0042,C. goeringii 'Wu Cai Xiang Long',C. goeringii,五彩祥龙春兰,春兰,39
+class0043,C. goeringii 'Wu Cai Die',C. goeringii,五彩蝶春兰,春兰,11
+class0044,C. goeringii 'Wu Xing Die',C. goeringii,五星蝶春兰,春兰,16
+class0045,C. goeringii 'Liang Li Hong Su',C. goeringii,亮丽红素春兰,春兰,21
+class0046,C. goeringii 'Liang Jing Tian Tang',C. goeringii,亮晶天堂春兰,春兰,11
+class0047,C. goeringii 'Ren Hai Mei',C. goeringii,仁海梅春兰,春兰,277
+class0048,C. goeringii 'Xian Yu Ni Chang',C. goeringii,仙羽霓裳春兰,春兰,16
+class0049,C. goeringii 'Xian He Su',C. goeringii,仙鹤素春兰,春兰,39
+class0050,C. goeringii 'Ren Hong',C. goeringii,任红春兰,春兰,72
+class0051,C. goeringii 'Fu Long He Die',C. goeringii,伏龙荷蝶春兰,春兰,11
+class0052,C. goeringii 'He Zi',C. goeringii,何字春兰,春兰,10
+class0053,C. goeringii 'Yu Jiang Chan',C. goeringii,余江婵春兰,春兰,345
+class0054,C. goeringii 'Yu Hu Die',C. goeringii,余蝴蝶春兰,春兰,456
+class0055,C. goeringii 'Fo Guang',C. goeringii,佛光春兰,春兰,15
+class0056,C. goeringii 'Fu Lan',C. goeringii,佛兰春兰,春兰,10
+class0057,C. goeringii 'Jun Zi',C. goeringii,俊字春兰,春兰,38
+class0058,C. goeringii 'Qiao Zi',C. goeringii,俏字春兰,春兰,10
+class0059,C. goeringii 'Yu Shi Su He',C. goeringii,俞氏素荷春兰,春兰,360
+class0060,C. goeringii 'Qing Cheng',C. goeringii,倾城春兰,春兰,60
+class0061,C. goeringii 'Yuan Ji Mei',C. goeringii,元吉梅春兰,春兰,18
+class0062,C. goeringii 'Yuan Bao He',C. goeringii,元宝荷春兰,春兰,29
+class0063,C. goeringii 'Yuan Hong',C. goeringii,元红春兰,春兰,112
+class0064,C. goeringii 'Lan Xi Di Yi Xian',C. goeringii,兰溪第一仙春兰,春兰,10
+class0065,C. goeringii 'Guan Gong',C. goeringii,关公春兰,春兰,14
+class0066,C. goeringii 'Xing He',C. goeringii,兴荷春兰,春兰,53
+class0067,C. goeringii 'Yang An Mei',C. goeringii,养安梅春兰,春兰,113
+class0068,C. goeringii 'Jun Qi',C. goeringii,军旗春兰,春兰,59
+class0069,C. goeringii 'Jun He',C. goeringii,军荷春兰,春兰,14
+class0070,C. goeringii 'Guan Yao Mei',C. goeringii,冠姚梅春兰,春兰,158
+class0071,C. goeringii 'Guan Zi',C. goeringii,冠字春兰,春兰,13
+class0072,C. goeringii 'Guan Chun',C. goeringii,冠春春兰,春兰,15
+class0073,C. goeringii 'Guan Shen',C. goeringii,冠神春兰,春兰,563
+class0074,C. goeringii 'Guan Die',C. goeringii,冠蝶春兰,春兰,195
+class0075,C. goeringii 'Bing Xin Su',C. goeringii,冰心素春兰,春兰,107
+class0076,C. goeringii 'Bing Mei Ren',C. goeringii,冰美人春兰,春兰,11
+class0077,C. goeringii 'Feng Huang Chuan Qi',C. goeringii,凤凰传奇春兰,春兰,46
+class0078,C. goeringii 'Feng Zi',C. goeringii,凤字春兰,春兰,40
+class0079,C. goeringii 'Feng Chai',C. goeringii,凤钗春兰,春兰,11
+class0080,C. goeringii 'Huang Zi',C. goeringii,凰字春兰,春兰,115
+class0081,C. goeringii 'Liu San Hong',C. goeringii,刘三红春兰,春兰,173
+class0082,C. goeringii 'Shan Xi Rui Die',C. goeringii,剡溪蕊蝶春兰,春兰,21
+class0083,C. goeringii 'Bao Gong Hun',C. goeringii,包公魂春兰,春兰,686
+class0084,C. goeringii 'Bei Lun Zhi Guang',C. goeringii,北仑之光春兰,春兰,21
+class0085,C. goeringii 'Qian Dao Zhi Hua',C. goeringii,千岛之花春兰,春兰,162
+class0086,C. goeringii 'Qian Dao Bai He',C. goeringii,千岛百合春兰,春兰,41
+class0087,C. goeringii 'Qian Dao Long Mei',C. goeringii,千岛龙梅春兰,春兰,13
+class0088,C. goeringii 'Qian Li Ma',C. goeringii,千里马春兰,春兰,40
+class0089,C. goeringii 'Hua Ding Mei',C. goeringii,华鼎梅春兰,春兰,26
+class0090,C. goeringii 'Hua Ding Mu Dan',C. goeringii,华鼎牡丹春兰,春兰,14
+class0091,C. goeringii 'Nan Bei San Xing',C. goeringii,南北三星春兰,春兰,58
+class0092,C. goeringii 'You Li Su',C. goeringii,友漓素春兰,春兰,18
+class0093,C. goeringii 'Shuang Feng Zhao Yang',C. goeringii,双凤朝阳春兰,春兰,63
+class0094,C. goeringii 'Shuang Yi Shui Xian',C. goeringii,双艺水仙春兰,春兰,23
+class0095,C. goeringii 'Fa Yang Mei',C. goeringii,发扬梅春兰,春兰,13
+class0096,C. goeringii 'Gu Yan Qi Lin',C. goeringii,古堰麒麟春兰,春兰,17
+class0097,C. goeringii 'Tai Zhou Rui Die',C. goeringii,台州蕊蝶春兰,春兰,21
+class0098,C. goeringii 'Shi An Mei',C. goeringii,史安梅春兰,春兰,39
+class0099,C. goeringii 'Ji Zi',C. goeringii,吉字春兰,春兰,20
+class0100,C. goeringii 'Ji Xiang Fu Gui',C. goeringii,吉祥富贵春兰,春兰,23
+class0101,C. goeringii 'Ji Xiang Su',C. goeringii,吉祥素春兰,春兰,170
+class0102,C. goeringii 'Tong Le Mei',C. goeringii,同乐梅春兰,春兰,197
+class0103,C. goeringii 'Ming Shi Mei',C. goeringii,名仕梅春兰,春兰,20
+class0104,C. goeringii 'Ming Shan Hong Su',C. goeringii,名山红素春兰,春兰,88
+class0105,C. goeringii 'Hou Ming Gao Yi',C. goeringii,后明缟艺春兰,春兰,11
+class0106,C. goeringii 'Xiang Tian Ge',C. goeringii,向天歌春兰,春兰,14
+class0107,C. goeringii 'Han Xiao',C. goeringii,含笑春兰,春兰,50
+class0108,C. goeringii 'Wu Feng',C. goeringii,吴凤春兰,春兰,160
+class0109,C. goeringii 'He Shang Su',C. goeringii,和尚素春兰,春兰,50
+class0110,C. goeringii 'He Ping Mei',C. goeringii,和平梅春兰,春兰,26
+class0111,C. goeringii 'He Shi Bi',C. goeringii,和氏璧春兰,春兰,54
+class0112,C. goeringii 'Pin Zuan',C. goeringii,品钻春兰,春兰,14
+class0113,C. goeringii 'Tang Jiang Hong',C. goeringii,唐江红春兰,春兰,141
+class0114,C. goeringii 'Xi Lin Men',C. goeringii,喜临门春兰,春兰,21
+class0115,C. goeringii 'Jia Long',C. goeringii,嘉隆春兰,春兰,24
+class0116,C. goeringii 'Si Xi Die',C. goeringii,四喜蝶春兰,春兰,482
+class0117,C. goeringii 'Tuan Jie He',C. goeringii,团结荷春兰,春兰,115
+class0118,C. goeringii 'Guo Yan Hong Su',C. goeringii,国艳红素春兰,春兰,26
+class0119,C. goeringii 'Yuan Liang Mei',C. goeringii,圆良梅春兰,春兰,14
+class0120,C. goeringii 'Yuan Ding Mei',C. goeringii,圆鼎梅春兰,春兰,11
+class0121,C. goeringii 'Chu Zhou He',C. goeringii,处州荷春兰,春兰,28
+class0122,C. goeringii 'Fu Se Bai He',C. goeringii,复色百合春兰,春兰,13
+class0123,C. goeringii 'Xi Yang Hong',C. goeringii,夕阳红春兰,春兰,12
+class0124,C. goeringii 'Wai Hu Die',C. goeringii,外蝴蝶春兰,春兰,21
+class0125,C. goeringii 'Duo Duo Die',C. goeringii,多朵蝶春兰,春兰,253
+class0126,C. goeringii 'Duo Ban Qi Die',C. goeringii,多瓣奇蝶春兰,春兰,15
+class0127,C. goeringii 'Da Yuan Bao',C. goeringii,大元宝春兰,春兰,672
+class0128,C. goeringii 'Da Tuan Yuan',C. goeringii,大团圆春兰,春兰,289
+class0129,C. goeringii 'Da Fu He',C. goeringii,大富荷春兰,春兰,143
+class0130,C. goeringii 'Da Fu Gui',C. goeringii,大富贵春兰,春兰,754
+class0131,C. goeringii 'Da Xiong Mao',C. goeringii,大熊猫春兰,春兰,56
+class0132,C. goeringii 'Da Shen Long',C. goeringii,大神龙春兰,春兰,27
+class0133,C. goeringii 'Da Hong Pao',C. goeringii,大红袍春兰,春兰,344
+class0134,C. goeringii 'Da Hua Su Xin',C. goeringii,大花素心春兰,春兰,15
+class0135,C. goeringii 'Da Shu Shan',C. goeringii,大蜀山春兰,春兰,19
+class0136,C. goeringii 'Da Xue Ling',C. goeringii,大雪岭春兰,春兰,166
+class0137,C. goeringii 'Da Kui He',C. goeringii,大魁荷春兰,春兰,17
+class0138,C. goeringii 'Da Peng Zhan Chi',C. goeringii,大鹏展翅春兰,春兰,16
+class0139,C. goeringii 'Dai Huang Hua',C. goeringii,大黄花春兰,春兰,25
+class0140,C. goeringii 'Dai Huang Pao',C. goeringii,大黄袍春兰,春兰,12
+class0141,C. goeringii 'Da Long Yan Zhi',C. goeringii,大龙胭脂春兰,春兰,412
+class0142,C. goeringii 'Tian Yi He',C. goeringii,天一荷春兰,春兰,244
+class0143,C. goeringii 'Tian Xing Mei',C. goeringii,天兴梅春兰,春兰,162
+class0144,C. goeringii 'Tian Di Jin Xing',C. goeringii,天地金星春兰,春兰,104
+class0145,C. goeringii 'Tian Tang San Xing',C. goeringii,天堂三星春兰,春兰,17
+class0146,C. goeringii 'Tian Nv Wu',C. goeringii,天女舞春兰,春兰,20
+class0147,C. goeringii 'Tian Lao He Die',C. goeringii,天姥荷蝶春兰,春兰,46
+class0148,C. goeringii 'Tian Zi Mei',C. goeringii,天子梅春兰,春兰,11
+class0149,C. goeringii 'Tian Peng Mu Dan',C. goeringii,天彭牡丹春兰,春兰,483
+class0150,C. goeringii 'Tian Jing Su',C. goeringii,天景素春兰,春兰,14
+class0151,C. goeringii 'Tian Su Mei',C. goeringii,天素梅春兰,春兰,17
+class0152,C. goeringii 'Tian Lv',C. goeringii,天绿春兰,春兰,630
+class0153,C. goeringii 'Tian Chan',C. goeringii,天蝉春兰,春兰,44
+class0154,C. goeringii 'Tian Long Mu Dan',C. goeringii,天龙牡丹春兰,春兰,32
+class0155,C. goeringii 'Tai Bai Xian',C. goeringii,太白仙春兰,春兰,44
+class0156,C. goeringii 'Qi Zhen Mei',C. goeringii,奇珍梅春兰,春兰,113
+class0157,C. goeringii 'Nv Er Hong',C. goeringii,女儿红春兰,春兰,118
+class0158,C. goeringii 'Nv Chu',C. goeringii,女雏春兰,春兰,150
+class0159,C. goeringii 'Ru Yi Mei',C. goeringii,如意梅春兰,春兰,10
+class0160,C. goeringii 'Ru Yi Hong Su',C. goeringii,如意红素春兰,春兰,23
+class0161,C. goeringii 'Ru Yi He Su',C. goeringii,如意荷素春兰,春兰,10
+class0162,C. goeringii 'Jiang Shi He',C. goeringii,姜氏荷春兰,春兰,229
+class0163,C. goeringii 'Lou Shan Hong',C. goeringii,娄山红春兰,春兰,107
+class0164,C. goeringii 'Jiao Feng',C. goeringii,娇凤春兰,春兰,22
+class0165,C. goeringii 'Chan Juan',C. goeringii,婵娟春兰,春兰,26
+class0166,C. goeringii 'Chang E Ben Yue',C. goeringii,嫦娥奔月春兰,春兰,14
+class0167,C. goeringii 'Zi Jin',C. goeringii,子衿春兰,春兰,39
+class0168,C. goeringii 'Ning Bo Shui Xian',C. goeringii,宁波水仙春兰,春兰,335
+class0169,C. goeringii 'Song Bao',C. goeringii,宋宝春兰,春兰,20
+class0170,C. goeringii 'Song Mei',C. goeringii,宋梅春兰,春兰,779
+class0171,C. goeringii 'Song He Su',C. goeringii,宋荷素春兰,春兰,36
+class0172,C. goeringii 'Song Hu Die',C. goeringii,宋蝴蝶春兰,春兰,52
+class0173,C. goeringii 'Song Yun',C. goeringii,宋韵春兰,春兰,33
+class0174,C. goeringii 'Hong He Die',C. goeringii,宏合蝶春兰,春兰,39
+class0175,C. goeringii 'Ding Xin Mei',C. goeringii,定新梅春兰,春兰,211
+class0176,C. goeringii 'Yi Chun Xian',C. goeringii,宜春仙春兰,春兰,222
+class0177,C. goeringii 'Bao Chai',C. goeringii,宝钗春兰,春兰,36
+class0178,C. goeringii 'Fu Hua Mei',C. goeringii,富华梅春兰,春兰,50
+class0179,C. goeringii 'Fu Shi Zhi Xi Ying',C. goeringii,富士之夕映春兰,春兰,17
+class0180,C. goeringii 'Fu Shi Qi Die',C. goeringii,富士奇蝶春兰,春兰,41
+class0181,C. goeringii 'Fu Gui Mei',C. goeringii,富贵梅春兰,春兰,42
+class0182,C. goeringii 'Fu Gui Mu Dan',C. goeringii,富贵牡丹春兰,春兰,40
+class0183,C. goeringii 'Fu Gui Jin Long',C. goeringii,富贵金龙春兰,春兰,19
+class0184,C. goeringii 'Xiao Yuan Bao',C. goeringii,小元宝春兰,春兰,203
+class0185,C. goeringii 'Xiao Da Mei',C. goeringii,小打梅春兰,春兰,382
+class0186,C. goeringii 'Xiao Ling Long',C. goeringii,小灵龙春兰,春兰,32
+class0187,C. goeringii 'Xiao Cui Su',C. goeringii,小翠素春兰,春兰,52
+class0188,C. goeringii 'Shang Shu Mei',C. goeringii,尚书梅春兰,春兰,14
+class0189,C. goeringii 'Chong Ming Die',C. goeringii,崇明蝶春兰,春兰,11
+class0190,C. goeringii 'Qiao Bai He',C. goeringii,巧百合春兰,春兰,202
+class0191,C. goeringii 'Ba Shan Yi Cai',C. goeringii,巴山溢彩春兰,春兰,28
+class0192,C. goeringii 'Bu Yi Jiang Su Mu Dan',C. goeringii,布衣江素牡丹春兰,春兰,24
+class0193,C. goeringii 'Di Guan',C. goeringii,帝冠春兰,春兰,41
+class0194,C. goeringii 'Di Wang Mei',C. goeringii,帝王梅春兰,春兰,121
+class0195,C. goeringii 'Di Wang He',C. goeringii,帝王荷春兰,春兰,145
+class0196,C. goeringii 'You Zhou Mei',C. goeringii,幽州梅春兰,春兰,30
+class0197,C. goeringii 'Qing Mei',C. goeringii,庆梅春兰,春兰,19
+class0198,C. goeringii 'Nian Qi Mei',C. goeringii,廿七梅春兰,春兰,685
+class0199,C. goeringii 'Kai Yuan',C. goeringii,开元春兰,春兰,73
+class0200,C. goeringii 'Zhang He Su',C. goeringii,张荷素春兰,春兰,564
+class0201,C. goeringii 'Cai Yi Pin',C. goeringii,彩一品春兰,春兰,19
+class0202,C. goeringii 'Cai Yun He',C. goeringii,彩云荷春兰,春兰,259
+class0203,C. goeringii 'Cai Yun Zhui Yue',C. goeringii,彩云追月春兰,春兰,111
+class0204,C. goeringii 'Cai Yun Fei',C. goeringii,彩云飞春兰,春兰,18
+class0205,C. goeringii 'Cai Su',C. goeringii,彩素春兰,春兰,35
+class0206,C. goeringii 'Cai Hong Zhi Xing',C. goeringii,彩虹之星春兰,春兰,34
+class0207,C. goeringii 'Cai Hong Shui Xian',C. goeringii,彩虹水仙春兰,春兰,11
+class0208,C. goeringii 'Cai Hong Yu Tu',C. goeringii,彩虹玉兔春兰,春兰,37
+class0209,C. goeringii 'Cai Hong Su',C. goeringii,彩虹素春兰,春兰,84
+class0210,C. goeringii 'Cai Hong He Xian',C. goeringii,彩虹荷仙春兰,春兰,30
+class0211,C. goeringii 'Cai Hong Die',C. goeringii,彩虹蝶春兰,春兰,26
+class0212,C. goeringii 'Cai Hu Die',C. goeringii,彩蝴蝶春兰,春兰,22
+class0213,C. goeringii 'De Yan Su',C. goeringii,德艳素春兰,春兰,13
+class0214,C. goeringii 'Si Zhou Xian Zi',C. goeringii,思州仙子春兰,春兰,89
+class0215,C. goeringii 'Qing Ren',C. goeringii,情人春兰,春兰,97
+class0216,C. goeringii 'Xi Chun',C. goeringii,惜春春兰,春兰,86
+class0217,C. goeringii 'Ci En Su',C. goeringii,慈恩素春兰,春兰,52
+class0218,C. goeringii 'Bao Bao Su',C. goeringii,抱抱素春兰,春兰,21
+class0219,C. goeringii 'Zhao Cai Mao',C. goeringii,招财猫春兰,春兰,31
+class0220,C. goeringii 'Quan Tou Mei',C. goeringii,拳头梅春兰,春兰,15
+class0221,C. goeringii 'Zhang Shang Ming Zhu',C. goeringii,掌上明珠春兰,春兰,27
+class0222,C. goeringii 'Wen Yuan Mei',C. goeringii,文元梅春兰,春兰,16
+class0223,C. goeringii 'Wen Tuan Su',C. goeringii,文团素春兰,春兰,985
+class0224,C. goeringii 'Wen Yi',C. goeringii,文漪春兰,春兰,205
+class0225,C. goeringii 'Wen Xiu He',C. goeringii,文秀荷春兰,春兰,62
+class0226,C. goeringii 'Wen He',C. goeringii,文荷春兰,春兰,107
+class0227,C. goeringii 'Ban Cao Ban Hua',C. goeringii,斑草斑花春兰,春兰,67
+class0228,C. goeringii 'Xin Pin Qi Die',C. goeringii,新品奇蝶春兰,春兰,19
+class0229,C. goeringii 'Xin Pin Cai Su',C. goeringii,新品彩素春兰,春兰,58
+class0230,C. goeringii 'Xin Pin Mei',C. goeringii,新品梅春兰,春兰,29
+class0231,C. goeringii 'Xin Pin Shui Xian',C. goeringii,新品水仙春兰,春兰,20
+class0232,C. goeringii 'Xin Pin Jiang Shui Xian',C. goeringii,新品江水仙春兰,春兰,76
+class0233,C. goeringii 'Xin Pin Bai Su',C. goeringii,新品白素春兰,春兰,16
+class0234,C. goeringii 'Xin Pin Su Xin 1',C. goeringii,新品素心1春兰,春兰,45
+class0235,C. goeringii 'Xin Pin Su Xin 2',C. goeringii,新品素心2春兰,春兰,15
+class0236,C. goeringii 'Xin Pin He 1',C. goeringii,新品荷1春兰,春兰,27
+class0237,C. goeringii 'Xin Pin He 2',C. goeringii,新品荷2春兰,春兰,11
+class0238,C. goeringii 'Xin Pin Die',C. goeringii,新品蝶春兰,春兰,28
+class0239,C. goeringii 'Xin Chang Mu Dan',C. goeringii,新昌牡丹春兰,春兰,10
+class0240,C. goeringii 'Xin Chang Chi Su',C. goeringii,新昌赤素春兰,春兰,65
+class0241,C. goeringii 'Xin Bai He',C. goeringii,新百合春兰,春兰,17
+class0242,C. goeringii 'Xin Zhong Gao Hua Gao Yi',C. goeringii,新种缟花缟艺春兰,春兰,20
+class0243,C. goeringii 'Xin Zhong He Ban',C. goeringii,新种荷瓣春兰,春兰,28
+class0244,C. goeringii 'Xin Hong Hua',C. goeringii,新红花春兰,春兰,21
+class0245,C. goeringii 'Xin Cui Mei',C. goeringii,新翠梅春兰,春兰,67
+class0246,C. goeringii 'Xin Hua Cai Su',C. goeringii,新花彩素春兰,春兰,54
+class0247,C. goeringii 'Xin Hua Shui Xian',C. goeringii,新花水仙春兰,春兰,86
+class0248,C. goeringii 'Xin He Su',C. goeringii,新荷素春兰,春兰,17
+class0249,C. goeringii 'Fang Zi',C. goeringii,方字春兰,春兰,109
+class0250,C. goeringii 'Wu Shuang Mei',C. goeringii,无双梅春兰,春兰,17
+class0251,C. goeringii 'Ri Chu',C. goeringii,日出春兰,春兰,27
+class0252,C. goeringii 'Ri Yue Tong Hui',C. goeringii,日月同辉春兰,春兰,18
+class0253,C. goeringii 'Xu Ri Dong Sheng',C. goeringii,旭日东升春兰,春兰,12
+class0254,C. goeringii 'Chang Hua Mei',C. goeringii,昌化梅春兰,春兰,99
+class0255,C. goeringii 'Ming Yue He',C. goeringii,明月荷春兰,春兰,63
+class0256,C. goeringii 'Xing Guang',C. goeringii,星光春兰,春兰,90
+class0257,C. goeringii 'Chun Yi Pin',C. goeringii,春一品春兰,春兰,38
+class0258,C. goeringii 'Shuang Yi',C. goeringii,春兰双艺春兰,春兰,24
+class0259,C. goeringii 'Chun Tong',C. goeringii,春彤春兰,春兰,15
+class0260,C. goeringii 'Chun Xiao',C. goeringii,春晓春兰,春兰,20
+class0261,C. goeringii 'Chun Bai He',C. goeringii,春百合春兰,春兰,11
+class0262,C. goeringii 'Chun Fei Xian',C. goeringii,春飞仙春兰,春兰,14
+class0263,C. goeringii 'Xiao Ling Mei',C. goeringii,晓玲梅春兰,春兰,67
+class0264,C. goeringii 'Jing Zi',C. goeringii,景字春兰,春兰,50
+class0265,C. goeringii 'Jing Xin Die',C. goeringii,景新蝶春兰,春兰,17
+class0266,C. goeringii 'Jing Bai He',C. goeringii,晶百合春兰,春兰,33
+class0267,C. goeringii 'Jing Qi Mei',C. goeringii,晶祺梅春兰,春兰,22
+class0268,C. goeringii 'Jing Hong Rui Die',C. goeringii,晶红蕊蝶春兰,春兰,24
+class0269,C. goeringii 'Jing Ying Zhi Hua',C. goeringii,晶莹之花春兰,春兰,141
+class0270,C. goeringii 'Shu Guang',C. goeringii,曙光春兰,春兰,23
+class0271,C. goeringii 'Shu Ban Yi Hua',C. goeringii,曙斑艺花春兰,春兰,61
+class0272,C. goeringii 'Ceng Zi',C. goeringii,曾字春兰,春兰,19
+class0273,C. goeringii 'Yue Pei Su',C. goeringii,月佩素春兰,春兰,211
+class0274,C. goeringii 'Zhao Xia',C. goeringii,朝霞春兰,春兰,21
+class0275,C. goeringii 'Zhu Jin Zhong Tou',C. goeringii,朱金中透春兰,春兰,85
+class0276,C. goeringii 'Zhu Jin Hong',C. goeringii,朱金红春兰,春兰,14
+class0277,C. goeringii 'Zhu Jin He',C. goeringii,朱金荷春兰,春兰,32
+class0278,C. goeringii 'Zhu Jin Huang',C. goeringii,朱金黄春兰,春兰,30
+class0279,C. goeringii 'Duo Yun',C. goeringii,朵云春兰,春兰,36
+class0280,C. goeringii 'Du Zi',C. goeringii,杜字春兰,春兰,182
+class0281,C. goeringii 'Du Su',C. goeringii,杜素春兰,春兰,21
+class0282,C. goeringii 'Yang Shi Su He',C. goeringii,杨氏素荷春兰,春兰,442
+class0283,C. goeringii 'Yang Shi Su Die',C. goeringii,杨氏素蝶春兰,春兰,44
+class0284,C. goeringii 'Hang Zhou Hong',C. goeringii,杭州红春兰,春兰,43
+class0285,C. goeringii 'Ban Qiao Yi Mo',C. goeringii,板桥遗墨春兰,春兰,294
+class0286,C. goeringii 'Ji Hong',C. goeringii,极红春兰,春兰,40
+class0287,C. goeringii 'Feng Dan Bai Lu',C. goeringii,枫丹白露春兰,春兰,22
+class0288,C. goeringii 'Gui Yuan Mei',C. goeringii,桂圆梅春兰,春兰,368
+class0289,C. goeringii 'Gui Xiang He',C. goeringii,桂香荷春兰,春兰,24
+class0290,C. goeringii 'Tao Hong Hua',C. goeringii,桃红花春兰,春兰,74
+class0291,C. goeringii 'Tao Sai Su',C. goeringii,桃腮素春兰,春兰,14
+class0292,C. goeringii 'Liang Xi Mei',C. goeringii,梁溪梅春兰,春兰,190
+class0293,C. goeringii 'Liang Xi Rui Die',C. goeringii,梁溪蕊蝶春兰,春兰,97
+class0294,C. goeringii 'Mei Ban Xian Ming Yi',C. goeringii,梅瓣先明艺春兰,春兰,12
+class0295,C. goeringii 'Meng He',C. goeringii,梦荷春兰,春兰,31
+class0296,C. goeringii 'Bu Bu Gao',C. goeringii,步步高春兰,春兰,82
+class0297,C. goeringii 'Wu Ling Chun Se',C. goeringii,武陵春色春兰,春兰,23
+class0298,C. goeringii 'Wu Long Xian Nv',C. goeringii,武隆仙女春兰,春兰,10
+class0299,C. goeringii 'Bi Jie Cai Su',C. goeringii,毕节彩素春兰,春兰,21
+class0300,C. goeringii 'Shui Xian Su',C. goeringii,水仙素春兰,春兰,16
+class0301,C. goeringii 'Shui Xian Bian Cao',C. goeringii,水仙边草春兰,春兰,11
+class0302,C. goeringii 'Shui Jing Er Wang',C. goeringii,水晶二王春兰,春兰,122
+class0303,C. goeringii 'Shui Jing Dai Wang',C. goeringii,水晶大王春兰,春兰,238
+class0304,C. goeringii 'Shui Jing Se Hua',C. goeringii,水晶色花春兰,春兰,11
+class0305,C. goeringii 'Shui Jing Rui',C. goeringii,水晶蕊春兰,春兰,43
+class0306,C. goeringii 'Shui Jing Chi Su',C. goeringii,水晶赤素春兰,春兰,12
+class0307,C. goeringii 'Shui Jing Long Qi Hua',C. goeringii,水晶龙奇花春兰,春兰,20
+class0308,C. goeringii 'Yong Feng Mei',C. goeringii,永丰梅春兰,春兰,107
+class0309,C. goeringii 'Yong Chang Die',C. goeringii,永昌蝶春兰,春兰,39
+class0310,C. goeringii 'Yong Chun He',C. goeringii,永春荷春兰,春兰,11
+class0311,C. goeringii 'Han Gong Qiu Yue',C. goeringii,汉宫秋月春兰,春兰,117
+class0312,C. goeringii 'Jiang Nan Hong',C. goeringii,江南红春兰,春兰,40
+class0313,C. goeringii 'Jiang Nan Xue',C. goeringii,江南雪春兰,春兰,153
+class0314,C. goeringii 'Jiang Shan Duo Jiao',C. goeringii,江山多娇春兰,春兰,31
+class0315,C. goeringii 'Tang Mei',C. goeringii,汤梅春兰,春兰,108
+class0316,C. goeringii 'Wang Zi',C. goeringii,汪字春兰,春兰,529
+class0317,C. goeringii 'Wang Xiao Shang',C. goeringii,汪小尚春兰,春兰,269
+class0318,C. goeringii 'Wang Xiao Chun',C. goeringii,汪笑春春兰,春兰,238
+class0319,C. goeringii 'Wo Zhou He',C. goeringii,沃州荷春兰,春兰,11
+class0320,C. goeringii 'He Mu Chun Se',C. goeringii,河姆春色春兰,春兰,215
+class0321,C. goeringii 'Quan Lv Mei',C. goeringii,泉绿梅春兰,春兰,51
+class0322,C. goeringii 'Tai Dou Die',C. goeringii,泰斗蝶春兰,春兰,12
+class0323,C. goeringii 'Luo Shen',C. goeringii,洛神春兰,春兰,18
+class0324,C. goeringii 'Luo Shen Mei',C. goeringii,洛神梅春兰,春兰,14
+class0325,C. goeringii 'Hai Chen Mei',C. goeringii,海晨梅春兰,春兰,301
+class0326,C. goeringii 'Hai Jing',C. goeringii,海景春兰,春兰,211
+class0327,C. goeringii 'Hai Shen Mei',C. goeringii,海神梅春兰,春兰,37
+class0328,C. goeringii 'Hai He Su',C. goeringii,海荷素春兰,春兰,115
+class0329,C. goeringii 'Hai Yun Su',C. goeringii,海韵素春兰,春兰,21
+class0330,C. goeringii 'Han Lu',C. goeringii,涵露春兰,春兰,22
+class0331,C. goeringii 'Qing Shui Guan Yin',C. goeringii,清水观音春兰,春兰,20
+class0332,C. goeringii 'Hu Zhou Di Yi Mei',C. goeringii,湖州第一梅春兰,春兰,10
+class0333,C. goeringii 'Xiang Xi He',C. goeringii,湘西荷春兰,春兰,11
+class0334,C. goeringii 'Dian Hong Su',C. goeringii,滇红素春兰,春兰,372
+class0335,C. goeringii 'Li Zhu Mu Dan',C. goeringii,漓洙牡丹春兰,春兰,66
+class0336,C. goeringii 'Li Zhu Di Yi Xian',C. goeringii,漓渚第一仙春兰,春兰,97
+class0337,C. goeringii 'Huo Shan Hun',C. goeringii,火山魂春兰,春兰,23
+class0338,C. goeringii 'Ling Yan Jin Mei',C. goeringii,灵岩金梅春兰,春兰,120
+class0339,C. goeringii 'Ling Su Mu Dan',C. goeringii,灵素牡丹春兰,春兰,102
+class0340,C. goeringii 'Xiong Mao Rui Die',C. goeringii,熊猫蕊蝶春兰,春兰,157
+class0341,C. goeringii 'Yan He Su',C. goeringii,燕荷素春兰,春兰,11
+class0342,C. goeringii 'Niu Lang Zhi Nv',C. goeringii,牛郎织女春兰,春兰,25
+class0343,C. goeringii 'Mao Xian',C. goeringii,猫仙春兰,春兰,21
+class0344,C. goeringii 'Yu Lin Mei',C. goeringii,玉林梅春兰,春兰,47
+class0345,C. goeringii 'Yu Mei Su',C. goeringii,玉梅素春兰,春兰,214
+class0346,C. goeringii 'Yu Tao',C. goeringii,玉涛春兰,春兰,209
+class0347,C. goeringii 'Yu Huan Xian Zi',C. goeringii,玉环仙子春兰,春兰,13
+class0348,C. goeringii 'Yu Huan Mei',C. goeringii,玉环梅春兰,春兰,42
+class0349,C. goeringii 'Yu Ling Long',C. goeringii,玉玲珑春兰,春兰,279
+class0350,C. goeringii 'Yu Shen Mei',C. goeringii,玉神梅春兰,春兰,27
+class0351,C. goeringii 'Yu Die Xian Rui',C. goeringii,玉蝶献瑞春兰,春兰,59
+class0352,C. goeringii 'Wang Shi Su',C. goeringii,王氏素春兰,春兰,23
+class0353,C. goeringii 'Huan Qiu He Ding',C. goeringii,环球荷鼎春兰,春兰,694
+class0354,C. goeringii 'Zhen Ai He',C. goeringii,珍爱荷春兰,春兰,33
+class0355,C. goeringii 'Zhen Zhu Xian',C. goeringii,珍珠仙春兰,春兰,46
+class0356,C. goeringii 'Zhen Die',C. goeringii,珍蝶春兰,春兰,319
+class0357,C. goeringii 'Hu Po Hong Mei',C. goeringii,琥珀红梅春兰,春兰,22
+class0358,C. goeringii 'Rui Mei',C. goeringii,瑞梅春兰,春兰,348
+class0359,C. goeringii 'Rui He',C. goeringii,瑞荷春兰,春兰,230
+class0360,C. goeringii 'Yao Chi Xian Nv',C. goeringii,瑶池仙女春兰,春兰,173
+class0361,C. goeringii 'Yao Xi Xian Nv',C. goeringii,瑶西仙女春兰,春兰,11
+class0362,C. goeringii 'Jia Xiu Hong He',C. goeringii,甲秀红荷春兰,春兰,58
+class0363,C. goeringii 'Wan Xiang',C. goeringii,畹香春兰,春兰,33
+class0364,C. goeringii 'Bai Song Su',C. goeringii,白宋素春兰,春兰,22
+class0365,C. goeringii 'Bai Duo Su',C. goeringii,白朵素春兰,春兰,23
+class0366,C. goeringii 'Bai Mei',C. goeringii,白梅春兰,春兰,100
+class0367,C. goeringii 'Bai Mu Dan',C. goeringii,白牡丹春兰,春兰,14
+class0368,C. goeringii 'Bai Yu Xian Zi',C. goeringii,白玉仙子春兰,春兰,20
+class0369,C. goeringii 'Bai Yu Shi Zi',C. goeringii,白玉狮子春兰,春兰,12
+class0370,C. goeringii 'Bai Yu Su',C. goeringii,白玉素春兰,春兰,120
+class0371,C. goeringii 'Bai Hua Xian Zi',C. goeringii,白花仙子春兰,春兰,10
+class0372,C. goeringii 'Bai He',C. goeringii,白荷春兰,春兰,54
+class0373,C. goeringii 'Bai He Huang Hou',C. goeringii,百合皇后春兰,春兰,66
+class0374,C. goeringii 'Huang Guan Yu He',C. goeringii,皇冠玉荷春兰,春兰,20
+class0375,C. goeringii 'Huang Hou',C. goeringii,皇后春兰,春兰,17
+class0376,C. goeringii 'Huang Tai Zi',C. goeringii,皇太子春兰,春兰,37
+class0377,C. goeringii 'Huang Fei',C. goeringii,皇妃春兰,春兰,50
+class0378,C. goeringii 'Hao Yue',C. goeringii,皓月春兰,春兰,265
+class0379,C. goeringii 'Wan Jun Mei',C. goeringii,皖军梅春兰,春兰,15
+class0380,C. goeringii 'Wan Yu',C. goeringii,皖玉春兰,春兰,73
+class0381,C. goeringii 'Wan Xi Chun Se',C. goeringii,皖西春色春兰,春兰,42
+class0382,C. goeringii 'Wan Xi Qing Long',C. goeringii,皖西青龙春兰,春兰,46
+class0383,C. goeringii 'Wan Xia',C. goeringii,皖霞春兰,春兰,57
+class0384,C. goeringii 'Gai Yi He',C. goeringii,盖一荷春兰,春兰,41
+class0385,C. goeringii 'Gai Yuan He',C. goeringii,盖圆荷春兰,春兰,34
+class0386,C. goeringii 'Sheng Shi Mu Dan',C. goeringii,盛世牡丹春兰,春兰,191
+class0387,C. goeringii 'Sheng Shi Rui Die',C. goeringii,盛世蕊蝶春兰,春兰,169
+class0388,C. goeringii 'Xiang Si',C. goeringii,相思春兰,春兰,105
+class0389,C. goeringii 'Sheng An Mei',C. goeringii,省庵梅春兰,春兰,43
+class0390,C. goeringii 'Zhi Zu Su Mei',C. goeringii,知足素梅春兰,春兰,478
+class0391,C. goeringii 'Shi Cong Liu Yun',C. goeringii,石淙流韵春兰,春兰,13
+class0392,C. goeringii 'Bi Yue',C. goeringii,碧悦春兰,春兰,165
+class0393,C. goeringii 'Bi Yu Yuan He',C. goeringii,碧玉圆荷春兰,春兰,63
+class0394,C. goeringii 'Bi Yu',C. goeringii,碧玉春兰,春兰,52
+class0395,C. goeringii 'Bi Yu Shui Xian',C. goeringii,碧玉水仙春兰,春兰,34
+class0396,C. goeringii 'Bi Yao',C. goeringii,碧瑶春兰,春兰,491
+class0397,C. goeringii 'Shen Zhou Qi Die',C. goeringii,神州奇蝶春兰,春兰,99
+class0398,C. goeringii 'Shen He',C. goeringii,神荷春兰,春兰,185
+class0399,C. goeringii 'Shen Hua',C. goeringii,神话春兰,春兰,114
+class0400,C. goeringii 'Xiang Yun Rui Die',C. goeringii,祥云蕊蝶春兰,春兰,17
+class0401,C. goeringii 'Xiang Zi',C. goeringii,祥字春兰,春兰,14
+class0402,C. goeringii 'Fu Wa Mei',C. goeringii,福娃梅春兰,春兰,13
+class0403,C. goeringii 'Fu Ding Mei',C. goeringii,福鼎梅春兰,春兰,20
+class0404,C. goeringii 'Qiu Shui Fu Rong',C. goeringii,秋水芙蓉春兰,春兰,43
+class0405,C. goeringii 'Li Ye He Su',C. goeringii,立叶荷素春兰,春兰,37
+class0406,C. goeringii 'Duan Xiu He',C. goeringii,端秀荷春兰,春兰,428
+class0407,C. goeringii 'Xiao Die',C. goeringii,笑蝶春兰,春兰,41
+class0408,C. goeringii 'Zan Die',C. goeringii,簪蝶春兰,春兰,102
+class0409,C. goeringii 'Fen Hong Hua',C. goeringii,粉红花春兰,春兰,67
+class0410,C. goeringii 'Fen Se Nv Lang',C. goeringii,粉色女郎春兰,春兰,32
+class0411,C. goeringii 'Fen He',C. goeringii,粉荷春兰,春兰,14
+class0412,C. goeringii 'Su Nv',C. goeringii,素女春兰,春兰,73
+class0413,C. goeringii 'Su Rui Die',C. goeringii,素蕊蝶春兰,春兰,43
+class0414,C. goeringii 'Su Die Lian',C. goeringii,素蝶莲春兰,春兰,21
+class0415,C. goeringii 'Su Yi Xian Zi',C. goeringii,素衣仙子春兰,春兰,10
+class0416,C. goeringii 'Zi San Xing',C. goeringii,紫三星春兰,春兰,102
+class0417,C. goeringii 'Zi Qi Dong Lai',C. goeringii,紫气东来春兰,春兰,119
+class0418,C. goeringii 'Zi Yan',C. goeringii,紫烟春兰,春兰,10
+class0419,C. goeringii 'Zi He',C. goeringii,紫荷春兰,春兰,54
+class0420,C. goeringii 'Zi Guan Yin',C. goeringii,紫观音春兰,春兰,31
+class0421,C. goeringii 'Zi Yang Su',C. goeringii,紫阳素春兰,春兰,168
+class0422,C. goeringii 'Hong San Xing',C. goeringii,红三星春兰,春兰,33
+class0423,C. goeringii 'Hong Feng',C. goeringii,红凤春兰,春兰,24
+class0424,C. goeringii 'Hong Chun Xian',C. goeringii,红唇仙春兰,春兰,182
+class0425,C. goeringii 'Hong Ta Bao Shi',C. goeringii,红塔宝石春兰,春兰,798
+class0426,C. goeringii 'Hong Jiao He',C. goeringii,红娇荷春兰,春兰,15
+class0427,C. goeringii 'Hong Hai Er',C. goeringii,红孩儿春兰,春兰,104
+class0428,C. goeringii 'Hong Song Mei',C. goeringii,红宋梅春兰,春兰,200
+class0429,C. goeringii 'Hong Bao Shi',C. goeringii,红宝石春兰,春兰,428
+class0430,C. goeringii 'Hong Xing Rui Die',C. goeringii,红星蕊蝶春兰,春兰,145
+class0431,C. goeringii 'Hong Mei',C. goeringii,红梅春兰,春兰,27
+class0432,C. goeringii 'Hong Meng Die',C. goeringii,红梦蝶春兰,春兰,22
+class0433,C. goeringii 'Hong Shui Xian',C. goeringii,红水仙春兰,春兰,21
+class0434,C. goeringii 'Hong Yu Su',C. goeringii,红玉素春兰,春兰,166
+class0435,C. goeringii 'Hong Mei Gui',C. goeringii,红玫瑰春兰,春兰,34
+class0436,C. goeringii 'Hong Fen Jia Ren',C. goeringii,红粉佳人春兰,春兰,42
+class0437,C. goeringii 'Hong Yuan Die',C. goeringii,红缘蝶春兰,春兰,49
+class0438,C. goeringii 'Hong Hua',C. goeringii,红花春兰,春兰,80
+class0439,C. goeringii 'Hong Hua He Die',C. goeringii,红花荷蝶春兰,春兰,45
+class0440,C. goeringii 'Hong Hua Die',C. goeringii,红花蝶春兰,春兰,36
+class0441,C. goeringii 'Hong He Qi',C. goeringii,红荷奇春兰,春兰,21
+class0442,C. goeringii 'Hong Pu Tao',C. goeringii,红葡萄春兰,春兰,43
+class0443,C. goeringii 'Hong Die',C. goeringii,红蝶春兰,春兰,81
+class0444,C. goeringii 'Hong Gui Ren',C. goeringii,红贵人春兰,春兰,119
+class0445,C. goeringii 'Hong Xia Man Tian',C. goeringii,红霞满天春兰,春兰,35
+class0446,C. goeringii 'Hong Yun',C. goeringii,红韵春兰,春兰,144
+class0447,C. goeringii 'Hong Long Zi',C. goeringii,红龙字春兰,春兰,108
+class0448,C. goeringii 'Shao Xing Mei',C. goeringii,绍兴梅春兰,春兰,31
+class0449,C. goeringii 'Lv Yun',C. goeringii,绿云春兰,春兰,651
+class0450,C. goeringii 'Lv Zhou He',C. goeringii,绿洲荷春兰,春兰,21
+class0451,C. goeringii 'Lv Zhu Su',C. goeringii,绿珠素春兰,春兰,181
+class0452,C. goeringii 'Lv Pu',C. goeringii,绿璞春兰,春兰,24
+class0453,C. goeringii 'Lv Ying',C. goeringii,绿英春兰,春兰,866
+class0454,C. goeringii 'Lv Gu Ming Yue',C. goeringii,绿谷明月春兰,春兰,247
+class0455,C. goeringii 'Lv Gu Shu Guang',C. goeringii,绿谷曙光春兰,春兰,61
+class0456,C. goeringii 'Gao Yi Hong Hua',C. goeringii,缟艺红花春兰,春兰,131
+class0457,C. goeringii 'Luo Cui Rong Mei',C. goeringii,罗翠绒梅春兰,春兰,110
+class0458,C. goeringii 'Cui Yi Pin',C. goeringii,翠一品春兰,春兰,642
+class0459,C. goeringii 'Cui Bao Yu',C. goeringii,翠宝玉春兰,春兰,22
+class0460,C. goeringii 'Cui Cai Xiu',C. goeringii,翠彩秀春兰,春兰,25
+class0461,C. goeringii 'Cui Wen',C. goeringii,翠文春兰,春兰,69
+class0462,C. goeringii 'Cui Tao',C. goeringii,翠桃春兰,春兰,331
+class0463,C. goeringii 'Cui Mei',C. goeringii,翠梅春兰,春兰,20
+class0464,C. goeringii 'Cui Yu',C. goeringii,翠玉春兰,春兰,56
+class0465,C. goeringii 'Cui Gai He',C. goeringii,翠盖荷春兰,春兰,1094
+class0466,C. goeringii 'Cui Yun',C. goeringii,翠筠春兰,春兰,112
+class0467,C. goeringii 'Cui Yuan',C. goeringii,翠苑春兰,春兰,110
+class0468,C. goeringii 'Cui Wei',C. goeringii,翠薇春兰,春兰,62
+class0469,C. goeringii 'Cui Lu',C. goeringii,翠露春兰,春兰,80
+class0470,C. goeringii 'Lao Dai Mei',C. goeringii,老代梅春兰,春兰,126
+class0471,C. goeringii 'Lao Yang An',C. goeringii,老养安春兰,春兰,160
+class0472,C. goeringii 'Lao Yue Pei',C. goeringii,老月佩春兰,春兰,499
+class0473,C. goeringii 'Yan Zhi Xian Zi',C. goeringii,胭脂仙子春兰,春兰,548
+class0474,C. goeringii 'Yan Zhi Kou',C. goeringii,胭脂扣春兰,春兰,34
+class0475,C. goeringii 'Yan Zhi Hong Chun',C. goeringii,胭脂红唇春兰,春兰,14
+class0476,C. goeringii 'Zhi Zun Mei',C. goeringii,至尊梅春兰,春兰,27
+class0477,C. goeringii 'Zhen Jin Su',C. goeringii,臻金素春兰,春兰,56
+class0478,C. goeringii 'Wu Die',C. goeringii,舞蝶春兰,春兰,21
+class0479,C. goeringii 'Zhou Shan Xin Mei',C. goeringii,舟山新梅春兰,春兰,17
+class0480,C. goeringii 'Zhou Shan Long Mei',C. goeringii,舟山龙梅春兰,春兰,11
+class0481,C. goeringii 'Liang Mei',C. goeringii,良梅春兰,春兰,15
+class0482,C. goeringii 'Se Xian',C. goeringii,色仙春兰,春兰,23
+class0483,C. goeringii 'Se Hua',C. goeringii,色花春兰,春兰,15
+class0484,C. goeringii 'Yan Die',C. goeringii,艳蝶春兰,春兰,99
+class0485,C. goeringii 'Yi Cao Cai Su',C. goeringii,艺草彩素春兰,春兰,19
+class0486,C. goeringii 'Zhi Hong',C. goeringii,芝红春兰,春兰,83
+class0487,C. goeringii 'Hua Kai Fu Gui',C. goeringii,花开富贵春兰,春兰,241
+class0488,C. goeringii 'Hua Hu Die',C. goeringii,花蝴蝶春兰,春兰,305
+class0489,C. goeringii 'Cang Yan Su',C. goeringii,苍岩素春兰,春兰,460
+class0490,C. goeringii 'Su Zhou Chun Yi Pin',C. goeringii,苏州春一品春兰,春兰,65
+class0491,C. goeringii 'Miao Jiang Su Rui',C. goeringii,苗疆素蕊春兰,春兰,119
+class0492,C. goeringii 'Mao Yang Shui Xian',C. goeringii,茅洋水仙春兰,春兰,22
+class0493,C. goeringii 'Cao Su',C. goeringii,草素春兰,春兰,53
+class0494,C. goeringii 'Rong Hua',C. goeringii,荣华春兰,春兰,12
+class0495,C. goeringii 'He Qi',C. goeringii,荷奇春兰,春兰,114
+class0496,C. goeringii 'He Qi Su',C. goeringii,荷奇素春兰,春兰,28
+class0497,C. goeringii 'He Ban',C. goeringii,荷瓣春兰,春兰,15
+class0498,C. goeringii 'He Rui',C. goeringii,荷蕊春兰,春兰,18
+class0499,C. goeringii 'Peng Lai Die',C. goeringii,蓬莱蝶春兰,春兰,29
+class0500,C. goeringii 'Cai Xian Su',C. goeringii,蔡仙素春兰,春兰,104
+class0501,C. goeringii 'Cai Mei Su',C. goeringii,蔡梅素春兰,春兰,47
+class0502,C. goeringii 'Rui Die',C. goeringii,蕊蝶春兰,春兰,155
+class0503,C. goeringii 'Rui Ding',C. goeringii,蕊鼎春兰,春兰,502
+class0504,C. goeringii 'Hu Rui Die',C. goeringii,虎蕊蝶春兰,春兰,561
+class0505,C. goeringii 'Hu Die Long',C. goeringii,蝴蝶龙春兰,春兰,51
+class0506,C. goeringii 'Xi Zi',C. goeringii,西子春兰,春兰,455
+class0507,C. goeringii 'Xi Shi Hong',C. goeringii,西施红春兰,春兰,15
+class0508,C. goeringii 'Xi Shen Mei',C. goeringii,西神梅春兰,春兰,557
+class0509,C. goeringii 'Bao Die',C. goeringii,豹蝶春兰,春兰,17
+class0510,C. goeringii 'Gui Zhou Rong Jiang Hong Su',C. goeringii,贵州榕江红素春兰,春兰,16
+class0511,C. goeringii 'Gui Su',C. goeringii,贵素春兰,春兰,13
+class0512,C. goeringii 'He Shen Mei',C. goeringii,贺神梅春兰,春兰,384
+class0513,C. goeringii 'Sai Jin Xuan',C. goeringii,赛锦旋春兰,春兰,24
+class0514,C. goeringii 'Chi Ke He Su',C. goeringii,赤壳荷素春兰,春兰,12
+class0515,C. goeringii 'Yue Hou Shi Zi',C. goeringii,越后狮子春兰,春兰,15
+class0516,C. goeringii 'Xuan Zi',C. goeringii,轩字春兰,春兰,22
+class0517,C. goeringii 'Xuan Yuan Su',C. goeringii,轩辕素春兰,春兰,23
+class0518,C. goeringii 'Bian Cao Mei Ban',C. goeringii,边草梅瓣春兰,春兰,21
+class0519,C. goeringii 'Qian Gong He',C. goeringii,迁公荷春兰,春兰,184
+class0520,C. goeringii 'Xiao Yao Mei',C. goeringii,逍遥梅春兰,春兰,21
+class0521,C. goeringii 'Tong Xiu Xiao Rui',C. goeringii,通秀笑蕊春兰,春兰,24
+class0522,C. goeringii 'Yi Pin',C. goeringii,逸品春兰,春兰,408
+class0523,C. goeringii 'Yi Xiang Mei',C. goeringii,逸香梅春兰,春兰,18
+class0524,C. goeringii 'Zui Yang Fei',C. goeringii,醉杨妃春兰,春兰,103
+class0525,C. goeringii 'Zui Hong Su',C. goeringii,醉红素春兰,春兰,775
+class0526,C. goeringii 'Zui Xiang',C. goeringii,醉香春兰,春兰,55
+class0527,C. goeringii 'Jin Fu Yu Mei',C. goeringii,金佛玉梅春兰,春兰,27
+class0528,C. goeringii 'Jin Yuan Die',C. goeringii,金元蝶春兰,春兰,34
+class0529,C. goeringii 'Jin Feng Huang',C. goeringii,金凤凰春兰,春兰,62
+class0530,C. goeringii 'Jin Tai He',C. goeringii,金太荷春兰,春兰,57
+class0531,C. goeringii 'Jin Fu Gui',C. goeringii,金富贵春兰,春兰,103
+class0532,C. goeringii 'Jin Chang Mei',C. goeringii,金昌梅春兰,春兰,45
+class0533,C. goeringii 'Jin Bang Ti Ming',C. goeringii,金榜题名春兰,春兰,25
+class0534,C. goeringii 'Jin Zun Hong He',C. goeringii,金樽红荷春兰,春兰,12
+class0535,C. goeringii 'Jin Quan',C. goeringii,金泉春兰,春兰,178
+class0536,C. goeringii 'Jin Can',C. goeringii,金灿春兰,春兰,15
+class0537,C. goeringii 'Jin Niu He',C. goeringii,金牛荷春兰,春兰,103
+class0538,C. goeringii 'Jin Mu Dan',C. goeringii,金牡丹春兰,春兰,49
+class0539,C. goeringii 'Jin Yu Mu Dan',C. goeringii,金玉牡丹春兰,春兰,10
+class0540,C. goeringii 'Jin Bi He',C. goeringii,金碧荷春兰,春兰,200
+class0541,C. goeringii 'Jin Bi Hui Huang',C. goeringii,金碧辉煌春兰,春兰,336
+class0542,C. goeringii 'Jin Chan',C. goeringii,金禅春兰,春兰,25
+class0543,C. goeringii 'Jin Tong',C. goeringii,金童春兰,春兰,103
+class0544,C. goeringii 'Jin Fen Hong Hua',C. goeringii,金粉红花春兰,春兰,16
+class0545,C. goeringii 'Jin Mao Xian',C. goeringii,金茂仙春兰,春兰,101
+class0546,C. goeringii 'Jin He Ding',C. goeringii,金荷鼎春兰,春兰,172
+class0547,C. goeringii 'Jin Lian',C. goeringii,金莲春兰,春兰,18
+class0548,C. goeringii 'Jin Bian Mei',C. goeringii,金边梅春兰,春兰,16
+class0549,C. goeringii 'Jin Xiang Fei Cui',C. goeringii,金镶翡翠春兰,春兰,84
+class0550,C. goeringii 'Jin Yang He',C. goeringii,金阳荷春兰,春兰,16
+class0551,C. goeringii 'Jin Yang Die',C. goeringii,金阳蝶春兰,春兰,23
+class0552,C. goeringii 'Jin Xiang Yu',C. goeringii,金香玉春兰,春兰,27
+class0553,C. goeringii 'Jin Huang Hua',C. goeringii,金黄花春兰,春兰,12
+class0554,C. goeringii 'Xin He',C. goeringii,鑫荷春兰,春兰,318
+class0555,C. goeringii 'Yin He Su',C. goeringii,银河素春兰,春兰,10
+class0556,C. goeringii 'Yin Xue',C. goeringii,银雪春兰,春兰,50
+class0557,C. goeringii 'Jin Xiu Zhong Hua',C. goeringii,锦绣中华春兰,春兰,33
+class0558,C. goeringii 'Jin He',C. goeringii,锦荷春兰,春兰,132
+class0559,C. goeringii 'Chang Le He',C. goeringii,长乐荷春兰,春兰,25
+class0560,C. goeringii 'Chang Le Die',C. goeringii,长乐蝶春兰,春兰,40
+class0561,C. goeringii 'Zhang Zi',C. goeringii,长字春兰,春兰,20
+class0562,C. goeringii 'Wen Xiang Die',C. goeringii,闻香蝶春兰,春兰,10
+class0563,C. goeringii 'Yang Ming He',C. goeringii,阳明荷春兰,春兰,19
+class0564,C. goeringii 'Ya Zhou Hong Mei',C. goeringii,雅州红梅春兰,春兰,26
+class0565,C. goeringii 'Ji Yuan',C. goeringii,集圆春兰,春兰,598
+class0566,C. goeringii 'Yu Hong',C. goeringii,雨虹春兰,春兰,77
+class0567,C. goeringii 'Xue Tou Mei',C. goeringii,雪头梅春兰,春兰,24
+class0568,C. goeringii 'Xue Shan Tian Cao',C. goeringii,雪山天草春兰,春兰,333
+class0569,C. goeringii 'Xue Ying',C. goeringii,雪影春兰,春兰,300
+class0570,C. goeringii 'Xue Lian Su',C. goeringii,雪莲素春兰,春兰,198
+class0571,C. goeringii 'Xue Die',C. goeringii,雪蝶春兰,春兰,31
+class0572,C. goeringii 'Huo Mei',C. goeringii,霍梅春兰,春兰,26
+class0573,C. goeringii 'Ni Chang Su',C. goeringii,霓裳素春兰,春兰,233
+class0574,C. goeringii 'Ba Wang He',C. goeringii,霸王荷春兰,春兰,364
+class0575,C. goeringii 'Qing Yun',C. goeringii,青云春兰,春兰,12
+class0576,C. goeringii 'Qing Yi',C. goeringii,青逸春兰,春兰,62
+class0577,C. goeringii 'Qing Qian Mei',C. goeringii,青钱梅春兰,春兰,24
+class0578,C. goeringii 'Jing Po Yi',C. goeringii,静泊艺春兰,春兰,25
+class0579,C. goeringii 'Pin Zhou He Ying',C. goeringii,频州荷影春兰,春兰,73
+class0580,C. goeringii 'Piao Men Shui Xian',C. goeringii,飘门水仙春兰,春兰,51
+class0581,C. goeringii 'Fei Tian Feng Huang',C. goeringii,飞天凤凰春兰,春兰,216
+class0582,C. goeringii 'Xiang Zhu Jin',C. goeringii,香朱金春兰,春兰,48
+class0583,C. goeringii 'Xiang Xiang Qi Die',C. goeringii,香香奇蝶春兰,春兰,17
+class0584,C. goeringii 'Xin Hai Mu Dan',C. goeringii,馨海牡丹春兰,春兰,31
+class0585,C. goeringii 'Gao Yun Mei',C. goeringii,高云梅春兰,春兰,56
+class0586,C. goeringii 'Gao Yuan Hei Hu',C. goeringii,高原黑虎春兰,春兰,41
+class0587,C. goeringii 'Gao Ming Rui Die',C. goeringii,高明蕊蝶春兰,春兰,58
+class0588,C. goeringii 'Kui Zi',C. goeringii,魁字春兰,春兰,31
+class0589,C. goeringii 'Kui He Su',C. goeringii,魁荷素春兰,春兰,75
+class0590,C. goeringii 'Yuan Hu Di Yi Mei',C. goeringii,鸳湖第一梅春兰,春兰,25
+class0591,C. goeringii 'Yuan Yang Die',C. goeringii,鸳鸯蝶春兰,春兰,16
+class0592,C. goeringii 'Hong Yun Dang Tou',C. goeringii,鸿运当头春兰,春兰,33
+class0593,C. goeringii 'He Shi',C. goeringii,鹤市春兰,春兰,478
+class0594,C. goeringii 'He Shang Su',C. goeringii,鹤裳素春兰,春兰,284
+class0595,C. goeringii 'Qi Lin Mu Dan',C. goeringii,麒麟牡丹春兰,春兰,25
+class0596,C. goeringii 'Qi Lin Die',C. goeringii,麒麟蝶春兰,春兰,19
+class0597,C. goeringii 'Ma Ke Su',C. goeringii,麻壳素春兰,春兰,155
+class0598,C. goeringii 'Ma Jiang Hong Su',C. goeringii,麻江红素春兰,春兰,16
+class0599,C. goeringii 'Huang San Xing',C. goeringii,黄三星春兰,春兰,109
+class0600,C. goeringii 'Huang Guan',C. goeringii,黄冠春兰,春兰,10
+class0601,C. goeringii 'Huang Wei Ba',C. goeringii,黄尾巴春兰,春兰,110
+class0602,C. goeringii 'Huang Mei',C. goeringii,黄梅春兰,春兰,15
+class0603,C. goeringii 'Huang Mao',C. goeringii,黄猫春兰,春兰,24
+class0604,C. goeringii 'Huang Bai Hua',C. goeringii,黄白花春兰,春兰,19
+class0605,C. goeringii 'Huang Su',C. goeringii,黄素春兰,春兰,128
+class0606,C. goeringii 'Huang Hua Wai Die',C. goeringii,黄花外蝶春兰,春兰,18
+class0607,C. goeringii 'Huang Hua Shui Xian',C. goeringii,黄花水仙春兰,春兰,11
+class0608,C. goeringii 'Huang Hua Su Xin',C. goeringii,黄花素心春兰,春兰,30
+class0609,C. goeringii 'Huang He',C. goeringii,黄荷春兰,春兰,283
+class0610,C. goeringii 'Huang He Mei',C. goeringii,黄荷梅春兰,春兰,128
+class0611,C. goeringii 'Huang Jin Wan Liang',C. goeringii,黄金万两春兰,春兰,12
+class0612,C. goeringii 'Huang Jin Mu Dan',C. goeringii,黄金牡丹春兰,春兰,40
+class0613,C. goeringii 'Huang Jin Bai He',C. goeringii,黄金百合春兰,春兰,10
+class0614,C. goeringii 'Huang Jin Su',C. goeringii,黄金素春兰,春兰,17
+class0615,C. goeringii 'Hei Mu Dan',C. goeringii,黑牡丹春兰,春兰,12
+class0616,C. goeringii 'Hei Mao Rui Die',C. goeringii,黑猫蕊蝶春兰,春兰,314
+class0617,C. goeringii 'Hei Mei Ren',C. goeringii,黑美人春兰,春兰,61
+class0618,C. goeringii 'Hei Hu',C. goeringii,黑虎春兰,春兰,176
+class0619,C. goeringii 'Qian Yi Pin',C. goeringii,黔一品春兰,春兰,62
+class0620,C. goeringii 'Qian Dong Mei',C. goeringii,黔东梅春兰,春兰,34
+class0621,C. goeringii 'Qian Mei',C. goeringii,黔梅春兰,春兰,37
+class0622,C. goeringii 'Long Zi',C. goeringii,龙字春兰,春兰,597
+class0623,C. goeringii 'Long Mei',C. goeringii,龙梅春兰,春兰,26
+class0624,C. goeringii 'Long Wang',C. goeringii,龙王春兰,春兰,16
+class0625,C. goeringii 'Long Fu Die',C. goeringii,龙福蝶春兰,春兰,115
+class0626,C. faberi 'Shang Hai Mei',C. faberi,上海梅蕙兰,蕙兰,132
+class0627,C. faberi 'Bu Xian Xian',C. faberi,不羡仙蕙兰,蕙兰,39
+class0628,C. faberi 'Yan Zhou Cai Yun',C. faberi,严州彩云蕙兰,蕙兰,101
+class0629,C. faberi 'Le Ding',C. faberi,乐鼎蕙兰,蕙兰,11
+class0630,C. faberi 'Fu Ban Die',C. faberi,付瓣蝶蕙兰,蕙兰,47
+class0631,C. faberi 'Xian Lv',C. faberi,仙绿蕙兰,蕙兰,192
+class0632,C. faberi 'Xian He',C. faberi,仙荷蕙兰,蕙兰,104
+class0633,C. faberi 'Chuan Qi',C. faberi,传奇蕙兰,蕙兰,164
+class0634,C. faberi 'Yuan Zi',C. faberi,元字蕙兰,蕙兰,341
+class0635,C. faberi 'Guan Ding',C. faberi,关顶蕙兰,蕙兰,277
+class0636,C. faberi 'Qian Shou Guan Yin',C. faberi,千手观音蕙兰,蕙兰,10
+class0637,C. faberi 'Nan Yang Mei',C. faberi,南阳梅蕙兰,蕙兰,216
+class0638,C. faberi 'Pin San Xing',C. faberi,品三星蕙兰,蕙兰,36
+class0639,C. faberi 'Guo Xiang Rui Die',C. faberi,国香蕊蝶蕙兰,蕙兰,14
+class0640,C. faberi 'Da Yi Pin',C. faberi,大一品蕙兰,蕙兰,343
+class0641,C. faberi 'Da Die Cai',C. faberi,大叠彩蕙兰,蕙兰,278
+class0642,C. faberi 'Da Chen Zi',C. faberi,大陈字蕙兰,蕙兰,97
+class0643,C. faberi 'Tian Jiao Mu Dan',C. faberi,天骄牡丹蕙兰,蕙兰,262
+class0644,C. faberi 'Ru Yi Su',C. faberi,如意素蕙兰,蕙兰,10
+class0645,C. faberi 'Cui Mei',C. faberi,崔梅蕙兰,蕙兰,596
+class0646,C. faberi 'Qing Hua Mei',C. faberi,庆华梅蕙兰,蕙兰,463
+class0647,C. faberi 'Ban Cao Su Xin',C. faberi,斑草素心蕙兰,蕙兰,14
+class0648,C. faberi 'Xin Pin Zhong',C. faberi,新品种蕙兰,蕙兰,11
+class0649,C. faberi 'Xin Hua Bai Su',C. faberi,新花白素蕙兰,蕙兰,12
+class0650,C. faberi 'Xin He',C. faberi,新荷蕙兰,蕙兰,64
+class0651,C. faberi 'Ying Ri He',C. faberi,映日荷蕙兰,蕙兰,19
+class0652,C. faberi 'Lou Mei',C. faberi,楼梅蕙兰,蕙兰,203
+class0653,C. faberi 'Shui Jing He',C. faberi,水晶荷蕙兰,蕙兰,11
+class0654,C. faberi 'Jiang Nan Xin Ji Pin',C. faberi,江南新极品蕙兰,蕙兰,449
+class0655,C. faberi 'Jiang Nan Lao Ji Pin',C. faberi,江南老极品蕙兰,蕙兰,312
+class0656,C. faberi 'Jiang Shan Su',C. faberi,江山素蕙兰,蕙兰,20
+class0657,C. faberi 'Lang Hua',C. faberi,浪花蕙兰,蕙兰,29
+class0658,C. faberi 'Hai Ou',C. faberi,海鸥蕙兰,蕙兰,17
+class0659,C. faberi 'Wen Zhou Su',C. faberi,温州素蕙兰,蕙兰,396
+class0660,C. faberi 'Pan Lv',C. faberi,潘绿蕙兰,蕙兰,418
+class0661,C. faberi 'Yan Yun',C. faberi,烟云蕙兰,蕙兰,11
+class0662,C. faberi 'Yu Qi Lin',C. faberi,玉麒麟蕙兰,蕙兰,19
+class0663,C. faberi 'Zhen Mei',C. faberi,珍梅蕙兰,蕙兰,57
+class0664,C. faberi 'Shen Ding',C. faberi,申顶蕙兰,蕙兰,28
+class0665,C. faberi 'Bi Xue Dan Xin',C. faberi,碧血丹心蕙兰,蕙兰,243
+class0666,C. faberi 'Fu Xing',C. faberi,福星蕙兰,蕙兰,11
+class0667,C. faberi 'Cheng Mei',C. faberi,程梅蕙兰,蕙兰,366
+class0668,C. faberi 'Duan Hui Mei',C. faberi,端蕙梅蕙兰,蕙兰,482
+class0669,C. faberi 'Hong Mu Dan',C. faberi,红牡丹蕙兰,蕙兰,14
+class0670,C. faberi 'Hong She',C. faberi,红舌蕙兰,蕙兰,25
+class0671,C. faberi 'Hong Xiang Fei',C. faberi,红香妃蕙兰,蕙兰,11
+class0672,C. faberi 'Lv Mu Dan',C. faberi,绿牡丹蕙兰,蕙兰,221
+class0673,C. faberi 'Cui Feng',C. faberi,翠丰蕙兰,蕙兰,89
+class0674,C. faberi 'Cui Ding He Su',C. faberi,翠定荷素蕙兰,蕙兰,161
+class0675,C. faberi 'Cui E',C. faberi,翠萼蕙兰,蕙兰,116
+class0676,C. faberi 'Lao Shang Hai Mei',C. faberi,老上海梅蕙兰,蕙兰,448
+class0677,C. faberi 'Lao Duo Yun',C. faberi,老朵云蕙兰,蕙兰,540
+class0678,C. faberi 'Lao Ran Zi',C. faberi,老染字蕙兰,蕙兰,216
+class0679,C. faberi 'Lao Feng Qiao',C. faberi,老蜂巧蕙兰,蕙兰,167
+class0680,C. faberi 'Dang Zi',C. faberi,荡字蕙兰,蕙兰,276
+class0681,C. faberi 'Rong Mei',C. faberi,荣梅蕙兰,蕙兰,51
+class0682,C. faberi 'Ju Shui Xuan',C. faberi,菊水轩蕙兰,蕙兰,94
+class0683,C. faberi 'Hu Ban',C. faberi,虎斑蕙兰,蕙兰,11
+class0684,C. faberi 'Jie Pei Mei',C. faberi,解佩梅蕙兰,蕙兰,631
+class0685,C. faberi 'Chi Xia Zhu',C. faberi,赤霞珠蕙兰,蕙兰,22
+class0686,C. faberi 'Yuan Dong Qi Die',C. faberi,远东奇蝶蕙兰,蕙兰,18
+class0687,C. faberi 'Yuan Dong Qi Lin',C. faberi,远东麒麟蕙兰,蕙兰,33
+class0688,C. faberi 'Shi Yuan Mei',C. faberi,适圆梅蕙兰,蕙兰,53
+class0689,C. faberi 'Zheng Xiao He',C. faberi,郑孝荷蕙兰,蕙兰,528
+class0690,C. faberi 'Jin Ao Su',C. faberi,金岙素蕙兰,蕙兰,617
+class0691,C. faberi 'Jin Se Yang Chun',C. faberi,金色阳春蕙兰,蕙兰,68
+class0692,C. faberi 'Jin Xiu Mu Dan',C. faberi,锦绣牡丹蕙兰,蕙兰,17
+class0693,C. faberi 'Chang Shou Mei',C. faberi,长寿梅蕙兰,蕙兰,224
+class0694,C. faberi 'Tao Bao Mei',C. faberi,陶宝梅蕙兰,蕙兰,37
+class0695,C. faberi 'Xia Fei Su',C. faberi,霞飞素蕙兰,蕙兰,10
+class0696,C. faberi 'Huang Su',C. faberi,黄素蕙兰,蕙兰,163
+class0697,C. faberi 'Huang Hua Hong Su She',C. faberi,黄花红素舌蕙兰,蕙兰,10
+class0698,C. faberi 'Huang Jin Xiao Shen Tong',C. faberi,黄金小神童蕙兰,蕙兰,177
+class0699,C. faberi 'Ding Hong Rui Die',C. faberi,鼎红蕊蝶蕙兰,蕙兰,356
+class0700,C. ensifolium 'Yi Hao Hong Ke Su',C. ensifolium,一号红壳素建兰,建兰,73
+class0701,C. ensifolium 'Yi Pin Mei',C. ensifolium,一品梅建兰,建兰,897
+class0702,C. ensifolium 'Qi Xian Nv',C. ensifolium,七仙女建兰,建兰,402
+class0703,C. ensifolium 'Qi Cai Hong Mei',C. ensifolium,七彩红梅建兰,建兰,33
+class0704,C. ensifolium 'San Ming Yu Shen',C. ensifolium,三明鱼魫建兰,建兰,262
+class0705,C. ensifolium 'San Jie Yi',C. ensifolium,三结义建兰,建兰,126
+class0706,C. ensifolium 'Dong Fang Hong He',C. ensifolium,东方红荷建兰,建兰,671
+class0707,C. ensifolium 'Zhong Hua Cai Xia',C. ensifolium,中华彩霞建兰,建兰,176
+class0708,C. ensifolium 'Zhong Hua Shui Xian',C. ensifolium,中华水仙建兰,建兰,443
+class0709,C. ensifolium 'Zhong Shan Mei',C. ensifolium,中山梅建兰,建兰,21
+class0710,C. ensifolium 'Dan Xin He',C. ensifolium,丹心荷建兰,建兰,282
+class0711,C. ensifolium 'Dan Xia Bai Su He',C. ensifolium,丹霞白素荷建兰,建兰,21
+class0712,C. ensifolium 'Dan Xia Su',C. ensifolium,丹霞素建兰,建兰,36
+class0713,C. ensifolium 'Dan Xia He',C. ensifolium,丹霞荷建兰,建兰,20
+class0714,C. ensifolium 'Ju Guo Huan Qing',C. ensifolium,举国欢庆建兰,建兰,275
+class0715,C. ensifolium 'Yun Shan Jia Ren',C. ensifolium,云山佳人建兰,建兰,53
+class0716,C. ensifolium 'Wu Yue Qi Lin',C. ensifolium,五岳麒麟建兰,建兰,162
+class0717,C. ensifolium 'Wu Fu Sheng Huo',C. ensifolium,五福圣火建兰,建兰,47
+class0718,C. ensifolium 'Xian Shan Xian Nv',C. ensifolium,仙山仙女建兰,建兰,28
+class0719,C. ensifolium 'Xian Shan Mu Dan',C. ensifolium,仙山牡丹建兰,建兰,37
+class0720,C. ensifolium 'Xian Shan Hong',C. ensifolium,仙山红建兰,建兰,90
+class0721,C. ensifolium 'Xian Shan Hong He',C. ensifolium,仙山红荷建兰,建兰,55
+class0722,C. ensifolium 'Shi Chan',C. ensifolium,似婵建兰,建兰,32
+class0723,C. ensifolium 'Qiao Jia Ren',C. ensifolium,俏佳人建兰,建兰,138
+class0724,C. ensifolium 'Guang Deng Mei',C. ensifolium,光登梅建兰,建兰,85
+class0725,C. ensifolium 'Ba Bao Qi Zhen',C. ensifolium,八宝奇珍建兰,建兰,110
+class0726,C. ensifolium 'Guan Gong',C. ensifolium,关公建兰,建兰,69
+class0727,C. ensifolium 'Guan Zhi Hong Mei',C. ensifolium,冠豸红梅建兰,建兰,21
+class0728,C. ensifolium 'Feng Huang Guan',C. ensifolium,凤凰冠建兰,建兰,13
+class0729,C. ensifolium 'Feng Mei',C. ensifolium,凤梅建兰,建兰,10
+class0730,C. ensifolium 'Feng Wu Jiu Tian',C. ensifolium,凤舞九天建兰,建兰,372
+class0731,C. ensifolium 'Shi San Tai Bao',C. ensifolium,十三太保建兰,建兰,53
+class0732,C. ensifolium 'Qian Fu Jin Ding',C. ensifolium,千佛金顶建兰,建兰,26
+class0733,C. ensifolium 'Qian Fu Jin Ding',C. ensifolium,千佛金鼎建兰,建兰,40
+class0734,C. ensifolium 'Qian Xi Ru Yi',C. ensifolium,千禧如意建兰,建兰,62
+class0735,C. ensifolium 'Hua Guang Die',C. ensifolium,华光蝶建兰,建兰,10
+class0736,C. ensifolium 'Nan Yue Xin Xiu',C. ensifolium,南粤新秀建兰,建兰,25
+class0737,C. ensifolium 'Shuang Long Hong Mei',C. ensifolium,双龙红梅建兰,建兰,323
+class0738,C. ensifolium 'Tai Bei Xiao Jie',C. ensifolium,台北小姐建兰,建兰,563
+class0739,C. ensifolium 'Ji Li San Xing',C. ensifolium,吉利三星建兰,建兰,45
+class0740,C. ensifolium 'Tong Xin Die',C. ensifolium,同信蝶建兰,建兰,33
+class0741,C. ensifolium 'Ming Shan Xian Zi',C. ensifolium,名山仙子建兰,建兰,128
+class0742,C. ensifolium 'Jun Lin Tian Xia',C. ensifolium,君临天下建兰,建兰,418
+class0743,C. ensifolium 'Jun He',C. ensifolium,君荷建兰,建兰,605
+class0744,C. ensifolium 'Jun He Die',C. ensifolium,君荷蝶建兰,建兰,24
+class0745,C. ensifolium 'Han Yu',C. ensifolium,含玉建兰,建兰,466
+class0746,C. ensifolium 'Jia Zhou Xiu Mei',C. ensifolium,嘉州秀梅建兰,建兰,162
+class0747,C. ensifolium 'Si Ji Hua Guang Die',C. ensifolium,四季华光蝶建兰,建兰,15
+class0748,C. ensifolium 'Si Ji E Mei',C. ensifolium,四季峨嵋建兰,建兰,35
+class0749,C. ensifolium 'Si Ji Yu Shi',C. ensifolium,四季玉狮建兰,建兰,27
+class0750,C. ensifolium 'Si Ji Su',C. ensifolium,四季素建兰,建兰,116
+class0751,C. ensifolium 'Si Ji Da Mo',C. ensifolium,四季达摩建兰,建兰,32
+class0752,C. ensifolium 'Si Ji Ji Yuan',C. ensifolium,四季集圆建兰,建兰,31
+class0753,C. ensifolium 'Guo Se Tian Xiang',C. ensifolium,国色天香建兰,建兰,366
+class0754,C. ensifolium 'Sheng Mei',C. ensifolium,圣梅建兰,建兰,71
+class0755,C. ensifolium 'Mo Bao',C. ensifolium,墨宝建兰,建兰,940
+class0756,C. ensifolium 'Fu Xing Qi Die',C. ensifolium,复兴奇蝶建兰,建兰,114
+class0757,C. ensifolium 'Fu Se Da He',C. ensifolium,复色大荷建兰,建兰,57
+class0758,C. ensifolium 'Xia Huang Mei',C. ensifolium,夏皇梅建兰,建兰,514
+class0759,C. ensifolium 'Da Feng Su',C. ensifolium,大凤素建兰,建兰,424
+class0760,C. ensifolium 'Da Tang Gong Fen',C. ensifolium,大唐宫粉建兰,建兰,933
+class0761,C. ensifolium 'Da Bao Dao',C. ensifolium,大宝岛建兰,建兰,166
+class0762,C. ensifolium 'Da Ming Yan Zhi',C. ensifolium,大明胭脂建兰,建兰,50
+class0763,C. ensifolium 'Da He Su',C. ensifolium,大荷素建兰,建兰,555
+class0764,C. ensifolium 'Da Qing',C. ensifolium,大青建兰,建兰,185
+class0765,C. ensifolium 'Tian Gong Die',C. ensifolium,天公蝶建兰,建兰,11
+class0766,C. ensifolium 'Tian Di Zhi Hua',C. ensifolium,天地之华建兰,建兰,25
+class0767,C. ensifolium 'Tian Zi Guo Se',C. ensifolium,天姿国色建兰,建兰,13
+class0768,C. ensifolium 'Tian E Su',C. ensifolium,天鹅素建兰,建兰,33
+class0769,C. ensifolium 'Qi Hua',C. ensifolium,奇花建兰,建兰,164
+class0770,C. ensifolium 'Hao Ri Zi',C. ensifolium,好日子建兰,建兰,138
+class0771,C. ensifolium 'Ru Yi Hong Mei',C. ensifolium,如意红梅建兰,建兰,99
+class0772,C. ensifolium 'Xue Yuan Hong Su',C. ensifolium,学元红素建兰,建兰,115
+class0773,C. ensifolium 'Yi Bin Shui Xian',C. ensifolium,宜宾水仙建兰,建兰,124
+class0774,C. ensifolium 'Yi Bin He',C. ensifolium,宜宾荷建兰,建兰,503
+class0775,C. ensifolium 'Bao Dao Xian Nv',C. ensifolium,宝岛仙女建兰,建兰,402
+class0776,C. ensifolium 'Bao Dao Yan Zhi',C. ensifolium,宝岛胭脂建兰,建兰,59
+class0777,C. ensifolium 'Bao Dao Jin Long',C. ensifolium,宝岛金龙建兰,建兰,88
+class0778,C. ensifolium 'Gong Xue Bai Hua',C. ensifolium,宫雪白花建兰,建兰,15
+class0779,C. ensifolium 'Fu Shi Jin',C. ensifolium,富士锦建兰,建兰,15
+class0780,C. ensifolium 'Fu Shan Qi Die',C. ensifolium,富山奇蝶建兰,建兰,534
+class0781,C. ensifolium 'Jiang Jun He',C. ensifolium,将军荷建兰,建兰,36
+class0782,C. ensifolium 'Xiao Feng Xian',C. ensifolium,小凤仙建兰,建兰,44
+class0783,C. ensifolium 'Xiao Tao Hong',C. ensifolium,小桃红建兰,建兰,235
+class0784,C. ensifolium 'Shan Cheng Lv',C. ensifolium,山城绿建兰,建兰,21
+class0785,C. ensifolium 'Ling Nan Qi Die',C. ensifolium,岭南奇蝶建兰,建兰,144
+class0786,C. ensifolium 'E Shan Da Hong',C. ensifolium,峨山大红建兰,建兰,47
+class0787,C. ensifolium 'E Mei Xian',C. ensifolium,峨眉弦建兰,建兰,120
+class0788,C. ensifolium 'E Mei Shui Xian',C. ensifolium,峨眉水仙建兰,建兰,175
+class0789,C. ensifolium 'E Mei Mu Dan',C. ensifolium,峨眉牡丹建兰,建兰,121
+class0790,C. ensifolium 'E Mei Xia Guang',C. ensifolium,峨眉霞光建兰,建兰,17
+class0791,C. ensifolium 'Shi Zhang Hong',C. ensifolium,市长红建兰,建兰,685
+class0792,C. ensifolium 'Nian Nian Hong',C. ensifolium,年年红建兰,建兰,29
+class0793,C. ensifolium 'Cai Yun Zhui Yue',C. ensifolium,彩云追月建兰,建兰,229
+class0794,C. ensifolium 'Cai Feng',C. ensifolium,彩凤建兰,建兰,409
+class0795,C. ensifolium 'Cai Feng Mei',C. ensifolium,彩凤梅建兰,建兰,34
+class0796,C. ensifolium 'Cai Tiao He',C. ensifolium,彩条荷建兰,建兰,29
+class0797,C. ensifolium 'Cai He',C. ensifolium,彩荷建兰,建兰,315
+class0798,C. ensifolium 'Cai Hong Xian Zi',C. ensifolium,彩虹仙子建兰,建兰,17
+class0799,C. ensifolium 'Cai Hong',C. ensifolium,彩虹建兰,建兰,47
+class0800,C. ensifolium 'Cai Hong Mei',C. ensifolium,彩虹梅建兰,建兰,30
+class0801,C. ensifolium 'Xin Pin Fu Se',C. ensifolium,新品复色建兰,建兰,14
+class0802,C. ensifolium 'Xin Pin',C. ensifolium,新品建兰,建兰,32
+class0803,C. ensifolium 'Xin Pin He Xing Da She',C. ensifolium,新品荷型大舌建兰,建兰,27
+class0804,C. ensifolium 'Xin Pin He Xing',C. ensifolium,新品荷型建兰,建兰,22
+class0805,C. ensifolium 'Xin Pin He Mei',C. ensifolium,新品荷梅建兰,建兰,20
+class0806,C. ensifolium 'Xin Pin He Die',C. ensifolium,新品荷蝶建兰,建兰,11
+class0807,C. ensifolium 'Xin Mei Xian',C. ensifolium,新梅仙建兰,建兰,13
+class0808,C. ensifolium 'Wu Ming Die Hua',C. ensifolium,无名蝶花建兰,建兰,10
+class0809,C. ensifolium 'Ri Yue Bao',C. ensifolium,日月宝建兰,建兰,246
+class0810,C. ensifolium 'Ri Yue Tan Zhi Lian',C. ensifolium,日月潭之恋建兰,建兰,171
+class0811,C. ensifolium 'Xing Yu Liu Fang',C. ensifolium,星雨流芳建兰,建兰,124
+class0812,C. ensifolium 'Chun Yu Cai Hong',C. ensifolium,春雨彩虹建兰,建兰,37
+class0813,C. ensifolium 'Jing Long Qi Die',C. ensifolium,晶龙奇蝶建兰,建兰,145
+class0814,C. ensifolium 'Mu Shan Zi',C. ensifolium,暮山紫建兰,建兰,756
+class0815,C. ensifolium 'Zhao Yang San Xing',C. ensifolium,朝阳三星建兰,建兰,497
+class0816,C. ensifolium 'Zhu De Su',C. ensifolium,朱德素建兰,建兰,511
+class0817,C. ensifolium 'Duo Yun',C. ensifolium,朵云建兰,建兰,190
+class0818,C. ensifolium 'Xing Huang Mei',C. ensifolium,杏黄梅建兰,建兰,71
+class0819,C. ensifolium 'Tao Fei',C. ensifolium,桃妃建兰,建兰,48
+class0820,C. ensifolium 'Tao Ji',C. ensifolium,桃姬建兰,建兰,11
+class0821,C. ensifolium 'Tao Jiao',C. ensifolium,桃娇建兰,建兰,122
+class0822,C. ensifolium 'Tao Lin',C. ensifolium,桃琳建兰,建兰,45
+class0823,C. ensifolium 'Tao Sai Su',C. ensifolium,桃腮素建兰,建兰,161
+class0824,C. ensifolium 'Mei Huang',C. ensifolium,梅皇建兰,建兰,13
+class0825,C. ensifolium 'Li Shan Shi Wang',C. ensifolium,梨山狮王建兰,建兰,363
+class0826,C. ensifolium 'Wu Yi Su',C. ensifolium,武夷素建兰,建兰,16
+class0827,C. ensifolium 'Shui Jing San Xing',C. ensifolium,水晶三星建兰,建兰,98
+class0828,C. ensifolium 'Shui Jing Huang Mei',C. ensifolium,水晶皇梅建兰,建兰,150
+class0829,C. ensifolium 'Yong Fu Su',C. ensifolium,永福素建兰,建兰,44
+class0830,C. ensifolium 'Hui Cui Fen He',C. ensifolium,汇翠粉荷建兰,建兰,548
+class0831,C. ensifolium 'Lu Zhou He Xian',C. ensifolium,泸州荷仙建兰,建兰,443
+class0832,C. ensifolium 'Man Tang Hong',C. ensifolium,满堂红建兰,建兰,788
+class0833,C. ensifolium 'Ya Huang Su',C. ensifolium,牙黄素建兰,建兰,12
+class0834,C. ensifolium 'Niu Lang Zhi Nv',C. ensifolium,牛郎织女建兰,建兰,55
+class0835,C. ensifolium 'Zhuang Yuan Hong He',C. ensifolium,状元红荷建兰,建兰,80
+class0836,C. ensifolium 'Yu Nv Su',C. ensifolium,玉女素建兰,建兰,132
+class0837,C. ensifolium 'Yu Ru Jiao',C. ensifolium,玉如娇建兰,建兰,305
+class0838,C. ensifolium 'Yu Shan Qi Die',C. ensifolium,玉山奇蝶建兰,建兰,191
+class0839,C. ensifolium 'Yu Huan Fei',C. ensifolium,玉环妃建兰,建兰,28
+class0840,C. ensifolium 'Yu Xue Dan Xin',C. ensifolium,玉雪丹心建兰,建兰,71
+class0841,C. ensifolium 'Mei Gui Yao Ji',C. ensifolium,玫瑰妖姬建兰,建兰,350
+class0842,C. ensifolium 'Bai Ru Yu',C. ensifolium,白如玉建兰,建兰,55
+class0843,C. ensifolium 'Bai Lian',C. ensifolium,白帘建兰,建兰,11
+class0844,C. ensifolium 'Bai Yu Zui',C. ensifolium,白玉醉建兰,建兰,71
+class0845,C. ensifolium 'Bai Hua Xue Yu',C. ensifolium,白花雪玉建兰,建兰,34
+class0846,C. ensifolium 'Bai Xue Bing Xin',C. ensifolium,白雪冰心建兰,建兰,298
+class0847,C. ensifolium 'Bi Yu Mei',C. ensifolium,碧玉梅建兰,建兰,11
+class0848,C. ensifolium 'Shen He',C. ensifolium,神荷建兰,建兰,31
+class0849,C. ensifolium 'Chan Gua',C. ensifolium,禅瓜建兰,建兰,100
+class0850,C. ensifolium 'Fu Zhou Su He',C. ensifolium,福州素荷建兰,建兰,305
+class0851,C. ensifolium 'Fu Long',C. ensifolium,福隆建兰,建兰,52
+class0852,C. ensifolium 'Qiu Xue',C. ensifolium,秋雪建兰,建兰,291
+class0853,C. ensifolium 'Qiu Yun',C. ensifolium,秋韵建兰,建兰,164
+class0854,C. ensifolium 'Xiao Mei',C. ensifolium,笑梅建兰,建兰,10
+class0855,C. ensifolium 'Fen He',C. ensifolium,粉荷建兰,建兰,195
+class0856,C. ensifolium 'Jing Cai Mei',C. ensifolium,精彩梅建兰,建兰,42
+class0857,C. ensifolium 'Su Jun He',C. ensifolium,素君荷建兰,建兰,427
+class0858,C. ensifolium 'Su Xin Yin Bian',C. ensifolium,素心银边建兰,建兰,11
+class0859,C. ensifolium 'Su Mei',C. ensifolium,素梅建兰,建兰,82
+class0860,C. ensifolium 'Su He San Xing',C. ensifolium,素荷三星建兰,建兰,10
+class0861,C. ensifolium 'Zi Yun',C. ensifolium,紫云建兰,建兰,139
+class0862,C. ensifolium 'Zi Juan',C. ensifolium,紫鹃建兰,建兰,10
+class0863,C. ensifolium 'Hong Yi Pin',C. ensifolium,红一品建兰,建兰,331
+class0864,C. ensifolium 'Hong San Niang',C. ensifolium,红三娘建兰,建兰,245
+class0865,C. ensifolium 'Hong Jun He',C. ensifolium,红君荷建兰,建兰,123
+class0866,C. ensifolium 'Hong Niang',C. ensifolium,红娘建兰,建兰,331
+class0867,C. ensifolium 'Hong Song Mei',C. ensifolium,红宋梅建兰,建兰,97
+class0868,C. ensifolium 'Hong Jiang Jun',C. ensifolium,红将军建兰,建兰,37
+class0869,C. ensifolium 'Hong Xing Mei',C. ensifolium,红星梅建兰,建兰,32
+class0870,C. ensifolium 'Hong Yue',C. ensifolium,红月建兰,建兰,471
+class0871,C. ensifolium 'Hong Mei Xian',C. ensifolium,红梅仙建兰,建兰,11
+class0872,C. ensifolium 'Hong Mao Rui Die',C. ensifolium,红猫蕊蝶建兰,建兰,504
+class0873,C. ensifolium 'Hong Yu',C. ensifolium,红玉建兰,建兰,296
+class0874,C. ensifolium 'Hong Mei Gui',C. ensifolium,红玫瑰建兰,建兰,41
+class0875,C. ensifolium 'Hong Cao Hong He',C. ensifolium,红草红荷建兰,建兰,366
+class0876,C. ensifolium 'Hong He',C. ensifolium,红荷建兰,建兰,39
+class0877,C. ensifolium 'Hong Gui Fei',C. ensifolium,红贵妃建兰,建兰,113
+class0878,C. ensifolium 'Hong Xiang Fei',C. ensifolium,红香妃建兰,建兰,29
+class0879,C. ensifolium 'Lv Yun Xian Nv',C. ensifolium,绿云仙女建兰,建兰,13
+class0880,C. ensifolium 'Lv Guang Deng',C. ensifolium,绿光登建兰,建兰,592
+class0881,C. ensifolium 'Lv Mei',C. ensifolium,绿梅建兰,建兰,134
+class0882,C. ensifolium 'Lv Shui Xian',C. ensifolium,绿水仙建兰,建兰,10
+class0883,C. ensifolium 'Lv Niao Zui',C. ensifolium,绿鸟嘴建兰,建兰,384
+class0884,C. ensifolium 'Yang Zhi Xue Yu',C. ensifolium,羊脂雪玉建兰,建兰,37
+class0885,C. ensifolium 'Cui Yu Mu Dan',C. ensifolium,翠玉牡丹建兰,建兰,250
+class0886,C. ensifolium 'Cui Yu He',C. ensifolium,翠玉荷建兰,建兰,40
+class0887,C. ensifolium 'Fei Cui Mei',C. ensifolium,翡翠梅建兰,建兰,25
+class0888,C. ensifolium 'Lao San Yuan',C. ensifolium,老三元建兰,建兰,60
+class0889,C. ensifolium 'Lao Cai Xian',C. ensifolium,老彩仙建兰,建兰,196
+class0890,C. ensifolium 'Lao He Xian',C. ensifolium,老荷仙建兰,建兰,343
+class0891,C. ensifolium 'Shu Xin Cai Mei',C. ensifolium,舒心彩梅建兰,建兰,112
+class0892,C. ensifolium 'Hua Xian Zi',C. ensifolium,花仙子建兰,建兰,313
+class0893,C. ensifolium 'He Tang Xian Zi',C. ensifolium,荷塘仙子建兰,建兰,10
+class0894,C. ensifolium 'He Wang',C. ensifolium,荷王建兰,建兰,239
+class0895,C. ensifolium 'Sa Mo Jin',C. ensifolium,萨摩锦建兰,建兰,146
+class0896,C. ensifolium 'Meng Shan Cai He',C. ensifolium,蒙山彩荷建兰,建兰,304
+class0897,C. ensifolium 'Rong Mei',C. ensifolium,蓉梅建兰,建兰,58
+class0898,C. ensifolium 'Peng Lai Zhi Hua',C. ensifolium,蓬莱之花建兰,建兰,11
+class0899,C. ensifolium 'Hu Die',C. ensifolium,虎蝶建兰,建兰,11
+class0900,C. ensifolium 'Hong Yi Mei',C. ensifolium,虹逸梅建兰,建兰,14
+class0901,C. ensifolium 'Can Cong Mei',C. ensifolium,蚕丛梅建兰,建兰,306
+class0902,C. ensifolium 'Die Wang',C. ensifolium,蝶王建兰,建兰,50
+class0903,C. ensifolium 'Xi Hai Jin',C. ensifolium,西海锦建兰,建兰,22
+class0904,C. ensifolium 'Guan Yin Su',C. ensifolium,观音素建兰,建兰,128
+class0905,C. ensifolium 'Gui Fu Ren',C. ensifolium,贵夫人建兰,建兰,42
+class0906,C. ensifolium 'Gui Fei Zui Jiu',C. ensifolium,贵妃醉酒建兰,建兰,1387
+class0907,C. ensifolium 'Chi Cheng',C. ensifolium,赤诚建兰,建兰,873
+class0908,C. ensifolium 'Bian Cheng Gong Su',C. ensifolium,边城贡素建兰,建兰,27
+class0909,C. ensifolium 'Yuan Dong Zhi Xing',C. ensifolium,远东之星建兰,建兰,10
+class0910,C. ensifolium 'Lian Cheng Su',C. ensifolium,连城素建兰,建兰,211
+class0911,C. ensifolium 'Yi Hong Shuang Jiao',C. ensifolium,逸红双娇建兰,建兰,690
+class0912,C. ensifolium 'Yi Hong Rui Die',C. ensifolium,逸红蕊蝶建兰,建兰,51
+class0913,C. ensifolium 'Zui Mei Ren',C. ensifolium,醉美人建兰,建兰,105
+class0914,C. ensifolium 'Jin Si Ma Yi',C. ensifolium,金丝马尾建兰,建兰,356
+class0915,C. ensifolium 'Jin Hua Su He',C. ensifolium,金华素荷建兰,建兰,11
+class0916,C. ensifolium 'Jin Zui Tian Xiang Su',C. ensifolium,金嘴天香素建兰,建兰,14
+class0917,C. ensifolium 'Jin Zhou Hong He',C. ensifolium,金皱虹荷建兰,建兰,159
+class0918,C. ensifolium 'Jin He',C. ensifolium,金荷建兰,建兰,495
+class0919,C. ensifolium 'Jin Yun He',C. ensifolium,金韵荷建兰,建兰,39
+class0920,C. ensifolium 'Jin Ding Xue',C. ensifolium,金顶雪建兰,建兰,253
+class0921,C. ensifolium 'Jin Yu Mei',C. ensifolium,金鱼梅建兰,建兰,12
+class0922,C. ensifolium 'Jin Ding Hong',C. ensifolium,金鼎红建兰,建兰,111
+class0923,C. ensifolium 'Tie Gu Bai Ya',C. ensifolium,铁骨白芽建兰,建兰,22
+class0924,C. ensifolium 'Tie Gu Su',C. ensifolium,铁骨素建兰,建兰,325
+class0925,C. ensifolium 'Tie Gu Su Mei',C. ensifolium,铁骨素梅建兰,建兰,254
+class0926,C. ensifolium 'Tie Gu Jin Qi',C. ensifolium,铁骨锦旗建兰,建兰,178
+class0927,C. ensifolium 'Yin Bian Da Gong',C. ensifolium,银边大贡建兰,建兰,289
+class0928,C. ensifolium 'Jin Qi',C. ensifolium,锦旗建兰,建兰,138
+class0929,C. ensifolium 'Chang Qing',C. ensifolium,长青建兰,建兰,10
+class0930,C. ensifolium 'Min Nan Lv Die',C. ensifolium,闽南绿蝶建兰,建兰,45
+class0931,C. ensifolium 'Yan Dang Su',C. ensifolium,雁荡素建兰,建兰,259
+class0932,C. ensifolium 'Xue Ying Dan Xin',C. ensifolium,雪映丹心建兰,建兰,13
+class0933,C. ensifolium 'Xue Ying Tao Hua',C. ensifolium,雪映桃花建兰,建兰,13
+class0934,C. ensifolium 'Xue Mei',C. ensifolium,雪梅建兰,建兰,56
+class0935,C. ensifolium 'Xue Mei Ren',C. ensifolium,雪美人建兰,建兰,10
+class0936,C. ensifolium 'Ji Yue Mei',C. ensifolium,霁月梅建兰,建兰,108
+class0937,C. ensifolium 'Qing Hua',C. ensifolium,青华建兰,建兰,62
+class0938,C. ensifolium 'Qing Shan Yu Quan',C. ensifolium,青山玉泉建兰,建兰,592
+class0939,C. ensifolium 'Qing Shan Hong',C. ensifolium,青山红建兰,建兰,11
+class0940,C. ensifolium 'Jing Kai Su',C. ensifolium,静开素建兰,建兰,122
+class0941,C. ensifolium 'Fei Fan Qi Die',C. ensifolium,非凡奇蝶建兰,建兰,24
+class0942,C. ensifolium 'Ma Bian Hong Hu Die',C. ensifolium,马边红蝴蝶建兰,建兰,58
+class0943,C. ensifolium 'Gao Pin Su',C. ensifolium,高品素建兰,建兰,145
+class0944,C. ensifolium 'Gao Ping',C. ensifolium,高坪建兰建兰,建兰,14
+class0945,C. ensifolium 'Gao Shan Chun Se',C. ensifolium,高山春色建兰,建兰,1127
+class0946,C. ensifolium 'Wei Mei',C. ensifolium,魏梅建兰,建兰,19
+class0947,C. ensifolium 'Yu Shen Da Gong',C. ensifolium,鱼魫大贡建兰,建兰,175
+class0948,C. ensifolium 'He Shan Cai He',C. ensifolium,鹤山彩荷建兰,建兰,72
+class0949,C. ensifolium 'Huang Yi Pin',C. ensifolium,黄一品建兰,建兰,219
+class0950,C. ensifolium 'Huang Guang Deng',C. ensifolium,黄光登建兰,建兰,260
+class0951,C. ensifolium 'Huang Shan Xue',C. ensifolium,黄山雪建兰,建兰,231
+class0952,C. ensifolium 'Huang Jin Cai Hong',C. ensifolium,黄金彩虹建兰,建兰,315
+class0953,C. ensifolium 'Long Yan Su',C. ensifolium,龙岩素建兰,建兰,268
+class0954,C. sinense 'Wan Dai Fu',C. sinense,万代福墨兰,墨兰,15
+class0955,C. sinense 'Zhong Guo Hong',C. sinense,中国红墨兰,墨兰,124
+class0956,C. sinense 'Zhong Ai Da He',C. sinense,中矮大荷墨兰,墨兰,91
+class0957,C. sinense 'Xiang He',C. sinense,享荷墨兰,墨兰,17
+class0958,C. sinense 'Xian Dian Bai Mo',C. sinense,仙殿白墨墨兰,墨兰,18
+class0959,C. sinense 'Qi Hei',C. sinense,企黑墨兰,墨兰,104
+class0960,C. sinense 'Feng Huang',C. sinense,凤凰墨兰,墨兰,17
+class0961,C. sinense 'Shi Ba Jiao',C. sinense,十八娇墨兰,墨兰,111
+class0962,C. sinense 'Nan Guo Shui Xian',C. sinense,南国水仙墨兰,墨兰,280
+class0963,C. sinense 'Nan Hai Su Qi',C. sinense,南海素奇墨兰,墨兰,29
+class0964,C. sinense 'Shuang Fu Gui',C. sinense,双富贵墨兰,墨兰,22
+class0965,C. sinense 'Shuang Mei Ren',C. sinense,双美人墨兰,墨兰,226
+class0966,C. sinense 'Wu Zi Cui',C. sinense,吴字翠墨兰,墨兰,159
+class0967,C. sinense 'Guo Xiang Mu Dan',C. sinense,国香牡丹墨兰,墨兰,50
+class0968,C. sinense 'Da Xun',C. sinense,大勋墨兰,墨兰,47
+class0969,C. sinense 'Da Tun Qi Lin',C. sinense,大屯麒麟墨兰,墨兰,49
+class0970,C. sinense 'Fu Gui Hong He',C. sinense,富贵红荷墨兰,墨兰,173
+class0971,C. sinense 'Xiao Xiang',C. sinense,小香墨兰,墨兰,37
+class0972,C. sinense 'Ling Nan Da Mei',C. sinense,岭南大梅墨兰,墨兰,104
+class0973,C. sinense 'Hui Zhou',C. sinense,徽州墨兰,墨兰,15
+class0974,C. sinense 'Wen Shan Qi Die',C. sinense,文山奇蝶墨兰,墨兰,38
+class0975,C. sinense 'Xin Niang',C. sinense,新娘墨兰,墨兰,39
+class0976,C. sinense 'Ri Xiang',C. sinense,日向墨兰,墨兰,63
+class0977,C. sinense 'Tao Ji',C. sinense,桃姬墨兰,墨兰,137
+class0978,C. sinense 'Jiang Shan Mei Ren',C. sinense,江山美人墨兰,墨兰,202
+class0979,C. sinense 'Ban Na Hong',C. sinense,版纳红墨兰,墨兰,122
+class0980,C. sinense 'Zhuang Yuan Hong',C. sinense,状元红墨兰,墨兰,30
+class0981,C. sinense 'Yu Fei',C. sinense,玉妃墨兰,墨兰,156
+class0982,C. sinense 'Yu Shi Zi',C. sinense,玉狮子墨兰,墨兰,41
+class0983,C. sinense 'Yu Guan Yin',C. sinense,玉观音墨兰,墨兰,34
+class0984,C. sinense 'Zhen Zhu Long',C. sinense,珍珠龙墨兰,墨兰,21
+class0985,C. sinense 'Rui Yu',C. sinense,瑞玉墨兰,墨兰,15
+class0986,C. sinense 'Yao Lin Yan Zhi',C. sinense,瑶琳胭脂墨兰,墨兰,212
+class0987,C. sinense 'Bai Mo',C. sinense,白墨墨兰,墨兰,129
+class0988,C. sinense 'Bai Yu Su Jin',C. sinense,白玉素锦墨兰,墨兰,50
+class0989,C. sinense 'Sheng Shi Hong He',C. sinense,盛世红荷墨兰,墨兰,21
+class0990,C. sinense 'Xiang Yu',C. sinense,祥玉墨兰,墨兰,12
+class0991,C. sinense 'Hong Shen He',C. sinense,红神荷墨兰,墨兰,368
+class0992,C. sinense 'Lv Yun',C. sinense,绿云墨兰,墨兰,18
+class0993,C. sinense 'Hua Xi He Die',C. sinense,花溪荷蝶墨兰,墨兰,92
+class0994,C. sinense 'Jin Feng Die',C. sinense,金凤蝶墨兰,墨兰,18
+class0995,C. sinense 'Jin Hua Shan',C. sinense,金华山墨兰,墨兰,225
+class0996,C. sinense 'Jin Tai Yang',C. sinense,金太阳墨兰,墨兰,155
+class0997,C. sinense 'Jin Ru Yi',C. sinense,金如意墨兰,墨兰,27
+class0998,C. sinense 'Jin Fu Cui',C. sinense,金馥翠墨兰,墨兰,140
+class0999,C. sinense 'Jin Niao',C. sinense,金鸟墨兰,墨兰,108
+class1000,C. sinense 'Min Nan Da Mei',C. sinense,闽南大梅墨兰,墨兰,158
+class1001,C. sinense 'Yang Ming Jin',C. sinense,阳明锦墨兰,墨兰,155
+class1002,C. sinense 'Long Mei',C. sinense,龙梅墨兰,墨兰,10
+class1003,C. kanran 'San Yuan Hong',C. kanran,三元红寒兰,寒兰,16
+class1004,C. kanran 'Feng Xue',C. kanran,丰雪寒兰,寒兰,286
+class1005,C. kanran 'Jiu Ling Mei Die',C. kanran,九岭梅蝶寒兰,寒兰,11
+class1006,C. kanran 'Jiu Wang Chui Xue',C. kanran,九王垂雪寒兰,寒兰,10
+class1007,C. kanran 'Wu Cai Xian',C. kanran,五彩仙寒兰,寒兰,10
+class1008,C. kanran 'Wu Cai Yuan She',C. kanran,五彩圆舌寒兰,寒兰,17
+class1009,C. kanran 'Wu Cai Xiang Yun',C. kanran,五彩祥云寒兰,寒兰,10
+class1010,C. kanran 'Wu Jia Su',C. kanran,伍家素寒兰,寒兰,22
+class1011,C. kanran 'Fu Xin',C. kanran,佛心寒兰,寒兰,12
+class1012,C. kanran 'Guan Bao Feng Yun',C. kanran,冠豹风韵寒兰,寒兰,15
+class1013,C. kanran 'Feng Huang',C. kanran,凤凰寒兰,寒兰,15
+class1014,C. kanran 'Chu Lian',C. kanran,初恋寒兰,寒兰,174
+class1015,C. kanran 'Hua Guang',C. kanran,华光寒兰,寒兰,18
+class1016,C. kanran 'Hua Su',C. kanran,华素寒兰,寒兰,22
+class1017,C. kanran 'Shuang Xi',C. kanran,双喜寒兰,寒兰,11
+class1018,C. kanran 'Chui Xue',C. kanran,吹雪寒兰,寒兰,16
+class1019,C. kanran 'Guo Hong',C. kanran,国红寒兰,寒兰,26
+class1020,C. kanran 'Da Hong Pao',C. kanran,大红袍寒兰,寒兰,12
+class1021,C. kanran 'Tian Dao Su',C. kanran,天道素寒兰,寒兰,31
+class1022,C. kanran 'Chang E',C. kanran,嫦娥寒兰,寒兰,64
+class1023,C. kanran 'Han Xiang Mei',C. kanran,寒香梅寒兰,寒兰,276
+class1024,C. kanran 'Jiang Jun Su',C. kanran,将军素寒兰,寒兰,28
+class1025,C. kanran 'Xiao Cui',C. kanran,小翠寒兰,寒兰,32
+class1026,C. kanran 'Xiao He',C. kanran,小荷寒兰,寒兰,43
+class1027,C. kanran 'Cai Hua Tao Sai Su',C. kanran,彩花桃腮素寒兰,寒兰,44
+class1028,C. kanran 'Xin Xin Xiang Yin',C. kanran,心心相印寒兰,寒兰,51
+class1029,C. kanran 'Xin Xiang Lian',C. kanran,心相恋寒兰,寒兰,17
+class1030,C. kanran 'Xin Pin Hong Mei',C. kanran,新品红梅寒兰,寒兰,15
+class1031,C. kanran 'Xin Pin He',C. kanran,新品荷寒兰,寒兰,50
+class1032,C. kanran 'Zhu Sha Lan',C. kanran,朱砂兰寒兰,寒兰,69
+class1033,C. kanran 'Zhu Yan',C. kanran,朱颜寒兰,寒兰,48
+class1034,C. kanran 'Yang Gui Fei',C. kanran,杨贵妃寒兰,寒兰,221
+class1035,C. kanran 'Tao Fei',C. kanran,桃妃寒兰,寒兰,16
+class1036,C. kanran 'Tao Sai Su',C. kanran,桃腮素寒兰,寒兰,27
+class1037,C. kanran 'Wu Yi Shan',C. kanran,武夷山寒兰,寒兰,10
+class1038,C. kanran 'Yi Cai',C. kanran,溢彩寒兰,寒兰,10
+class1039,C. kanran 'Man Tian Xing',C. kanran,满天星寒兰,寒兰,56
+class1040,C. kanran 'Yu Ru Yi',C. kanran,玉如意寒兰,寒兰,11
+class1041,C. kanran 'Yu Mao',C. kanran,玉猫寒兰,寒兰,15
+class1042,C. kanran 'Yu Cui',C. kanran,玉翠寒兰,寒兰,13
+class1043,C. kanran 'Huang Guan',C. kanran,皇冠寒兰,寒兰,12
+class1044,C. kanran 'Huang Fei',C. kanran,皇妃寒兰,寒兰,47
+class1045,C. kanran 'Bi Yun Fei Tian',C. kanran,碧云飞天寒兰,寒兰,21
+class1046,C. kanran 'Bi Yu',C. kanran,碧玉寒兰,寒兰,10
+class1047,C. kanran 'Li Su',C. kanran,礼素寒兰,寒兰,10
+class1048,C. kanran 'Shen Zhou Di Yi Mei',C. kanran,神州第一梅寒兰,寒兰,13
+class1049,C. kanran 'Su Xin',C. kanran,素心寒兰,寒兰,210
+class1050,C. kanran 'Zi Yun',C. kanran,紫云寒兰,寒兰,101
+class1051,C. kanran 'Zi Qing',C. kanran,紫晴寒兰,寒兰,14
+class1052,C. kanran 'Zi Yan',C. kanran,紫燕寒兰,寒兰,105
+class1053,C. kanran 'Zi Yan Gui',C. kanran,紫燕归寒兰,寒兰,10
+class1054,C. kanran 'Zi Mei Gui',C. kanran,紫玫瑰寒兰,寒兰,75
+class1055,C. kanran 'Zi Xiu',C. kanran,紫秀寒兰,寒兰,229
+class1056,C. kanran 'Zi Xiu Su Xin',C. kanran,紫秀素心寒兰,寒兰,11
+class1057,C. kanran 'Zi Tong',C. kanran,紫童寒兰,寒兰,19
+class1058,C. kanran 'Zi Hua',C. kanran,紫花寒兰,寒兰,141
+class1059,C. kanran 'Zi Wei Xing',C. kanran,紫薇星寒兰,寒兰,10
+class1060,C. kanran 'Zi Xia',C. kanran,紫霞寒兰,寒兰,145
+class1061,C. kanran 'Zi Kui',C. kanran,紫魁寒兰,寒兰,11
+class1062,C. kanran 'Zi Luan',C. kanran,紫鸾寒兰,寒兰,11
+class1063,C. kanran 'Hong Feng',C. kanran,红凤寒兰,寒兰,114
+class1064,C. kanran 'Hong Ru Yi',C. kanran,红如意寒兰,寒兰,20
+class1065,C. kanran 'Hong Ri',C. kanran,红日寒兰,寒兰,11
+class1066,C. kanran 'Hong Yu',C. kanran,红玉寒兰,寒兰,16
+class1067,C. kanran 'Hong Yu Su',C. kanran,红玉素寒兰,寒兰,21
+class1068,C. kanran 'Hong Hua Su',C. kanran,红花素寒兰,寒兰,107
+class1069,C. kanran 'Hong Ping Guo',C. kanran,红苹果寒兰,寒兰,348
+class1070,C. kanran 'Hong Cao',C. kanran,红草寒兰,寒兰,45
+class1071,C. kanran 'Hong Qing Ting',C. kanran,红蜻蜓寒兰,寒兰,10
+class1072,C. kanran 'Hong Xiu',C. kanran,红袖寒兰,寒兰,18
+class1073,C. kanran 'Qi Li',C. kanran,绮丽寒兰,寒兰,18
+class1074,C. kanran 'Lv Feng',C. kanran,绿凤寒兰,寒兰,15
+class1075,C. kanran 'Lv Bao',C. kanran,绿宝寒兰,寒兰,23
+class1076,C. kanran 'Yuan Cai',C. kanran,缘彩寒兰,寒兰,10
+class1077,C. kanran 'Cui He Yun',C. kanran,翠荷韵寒兰,寒兰,18
+class1078,C. kanran 'Cui Yun He',C. kanran,翠韵荷寒兰,寒兰,11
+class1079,C. kanran 'Cui He',C. kanran,翠鹤寒兰,寒兰,29
+class1080,C. kanran 'Fei Cui Yan Zhi',C. kanran,翡翠胭脂寒兰,寒兰,25
+class1081,C. kanran 'He Zhi Yun',C. kanran,荷之韵寒兰,寒兰,28
+class1082,C. kanran 'Hu Tou',C. kanran,虎头寒兰,寒兰,13
+class1083,C. kanran 'Hu Shan Su',C. kanran,虎山素寒兰,寒兰,20
+class1084,C. kanran 'Xi Men Chui Xue',C. kanran,西门吹雪寒兰,寒兰,22
+class1085,C. kanran 'Chi Ke Su',C. kanran,赤壳素寒兰,寒兰,43
+class1086,C. kanran 'Chi Gan Su',C. kanran,赤杆素寒兰,寒兰,61
+class1087,C. kanran 'Chi Xia',C. kanran,赤霞寒兰,寒兰,10
+class1088,C. kanran 'Jin Se Xia Guang',C. kanran,金色霞光寒兰,寒兰,13
+class1089,C. kanran 'Xue Zhong Hong',C. kanran,雪中红寒兰,寒兰,502
+class1090,C. kanran 'Qing Hua',C. kanran,青华寒兰,寒兰,22
+class1091,C. kanran 'Qing Shan',C. kanran,青山寒兰,寒兰,11
+class1092,C. kanran 'Qing Shan Lv Shui',C. kanran,青山绿水寒兰,寒兰,13
+class1093,C. kanran 'Qing Ping Guo',C. kanran,青苹果寒兰,寒兰,22
+class1094,C. kanran 'Qing Luan',C. kanran,青鸾寒兰,寒兰,10
+class1095,C. kanran 'Shao Hua',C. kanran,韶华寒兰,寒兰,12
+class1096,C. kanran 'Hong Yan',C. kanran,鸿雁寒兰,寒兰,52
+class1097,C. kanran 'Ma Ke Su',C. kanran,麻壳素寒兰,寒兰,38
+class1098,C. kanran 'Long Gu Li Ren',C. kanran,龙谷丽人寒兰,寒兰,22
+class1099,C. var. longibracteatum 'Yi Pin Huang Su',C. var. longibracteatum,一品黄素春剑,春剑,57
+class1100,C. var. longibracteatum 'Wan Shou Jin He',C. var. longibracteatum,万寿锦荷春剑,春剑,35
+class1101,C. var. longibracteatum 'San Xing Yi Hun',C. var. longibracteatum,三星遗魂春剑,春剑,41
+class1102,C. var. longibracteatum 'Zhong Hua Hong Mei',C. var. longibracteatum,中华红梅春剑,春剑,17
+class1103,C. var. longibracteatum 'Zhong Hua Long Mei',C. var. longibracteatum,中华龙梅春剑,春剑,51
+class1104,C. var. longibracteatum 'Wu Cai Qi Lin',C. var. longibracteatum,五彩麒麟春剑,春剑,217
+class1105,C. var. longibracteatum 'Dian He',C. var. longibracteatum,典荷春剑,春剑,378
+class1106,C. var. longibracteatum 'Feng Huang Mei',C. var. longibracteatum,凤凰梅春剑,春剑,10
+class1107,C. var. longibracteatum 'Han Cui Xian',C. var. longibracteatum,含翠仙春剑,春剑,12
+class1108,C. var. longibracteatum 'Xi Que',C. var. longibracteatum,喜鹊春剑,春剑,24
+class1109,C. var. longibracteatum 'Sheng Qi Lin',C. var. longibracteatum,圣麒麟春剑,春剑,55
+class1110,C. var. longibracteatum 'Da Tang Sheng Shi',C. var. longibracteatum,大唐盛世春剑,春剑,234
+class1111,C. var. longibracteatum 'Da Hong Zhu Sha',C. var. longibracteatum,大红朱砂春剑,春剑,197
+class1112,C. var. longibracteatum 'Da Hong He',C. var. longibracteatum,大红荷春剑,春剑,121
+class1113,C. var. longibracteatum 'Da He Su',C. var. longibracteatum,大荷素春剑,春剑,201
+class1114,C. var. longibracteatum 'Tian Fu Zhi Jiao',C. var. longibracteatum,天府之娇春剑,春剑,36
+class1115,C. var. longibracteatum 'Tian Fu He',C. var. longibracteatum,天府荷春剑,春剑,139
+class1116,C. var. longibracteatum 'Tian E Su',C. var. longibracteatum,天鹅素春剑,春剑,26
+class1117,C. var. longibracteatum 'Nv Er Hong',C. var. longibracteatum,女儿红春剑,春剑,44
+class1118,C. var. longibracteatum 'Mei He',C. var. longibracteatum,媚荷春剑,春剑,28
+class1119,C. var. longibracteatum 'Xue Lin He',C. var. longibracteatum,学林荷春剑,春剑,412
+class1120,C. var. longibracteatum 'Fu Gui Hong',C. var. longibracteatum,富贵红春剑,春剑,78
+class1121,C. var. longibracteatum 'Ba Shan',C. var. longibracteatum,巴山春剑,春剑,31
+class1122,C. var. longibracteatum 'Cai Yun',C. var. longibracteatum,彩云春剑,春剑,97
+class1123,C. var. longibracteatum 'Cai Yuan Yuan',C. var. longibracteatum,彩圆圆春剑,春剑,28
+class1124,C. var. longibracteatum 'Yu Qian Mei',C. var. longibracteatum,御前梅春剑,春剑,14
+class1125,C. var. longibracteatum 'Gan En He',C. var. longibracteatum,感恩荷春剑,春剑,134
+class1126,C. var. longibracteatum 'Xin Pin Zhong',C. var. longibracteatum,新品种春剑,春剑,20
+class1127,C. var. longibracteatum 'Xin Jin Yan Zhi',C. var. longibracteatum,新津胭脂春剑,春剑,751
+class1128,C. var. longibracteatum 'Tao Yuan San Jie Yi',C. var. longibracteatum,桃园三结义春剑,春剑,185
+class1129,C. var. longibracteatum 'Meng Yuan',C. var. longibracteatum,梦圆春剑,春剑,255
+class1130,C. var. longibracteatum 'Man Tang Hong',C. var. longibracteatum,满堂红春剑,春剑,32
+class1131,C. var. longibracteatum 'Yu Tang Chun',C. var. longibracteatum,玉堂春春剑,春剑,142
+class1132,C. var. longibracteatum 'Yu Ban Su',C. var. longibracteatum,玉板素春剑,春剑,10
+class1133,C. var. longibracteatum 'Yu Hai Tang',C. var. longibracteatum,玉海棠春剑,春剑,412
+class1134,C. var. longibracteatum 'Yu Fu Rong',C. var. longibracteatum,玉芙蓉春剑,春剑,123
+class1135,C. var. longibracteatum 'Yu He Su',C. var. longibracteatum,玉荷素春剑,春剑,34
+class1136,C. var. longibracteatum 'Liu Zhen Ya Huang',C. var. longibracteatum,留珍牙黄春剑,春剑,22
+class1137,C. var. longibracteatum 'Bai Yu Mei',C. var. longibracteatum,白玉梅春剑,春剑,15
+class1138,C. var. longibracteatum 'Bai Su He',C. var. longibracteatum,白素荷春剑,春剑,11
+class1139,C. var. longibracteatum 'Gai Shi Mu Dan',C. var. longibracteatum,盖世牡丹春剑,春剑,198
+class1140,C. var. longibracteatum 'Bi Yu',C. var. longibracteatum,碧玉春剑,春剑,37
+class1141,C. var. longibracteatum 'Fen Tao',C. var. longibracteatum,粉桃春剑,春剑,328
+class1142,C. var. longibracteatum 'Su He',C. var. longibracteatum,素荷春剑,春剑,124
+class1143,C. var. longibracteatum 'Hong Zun',C. var. longibracteatum,红尊春剑,春剑,44
+class1144,C. var. longibracteatum 'Hong Fu',C. var. longibracteatum,红福春剑,春剑,129
+class1145,C. var. longibracteatum 'Hong Chan',C. var. longibracteatum,红蝉春剑,春剑,96
+class1146,C. var. longibracteatum 'Hong Die',C. var. longibracteatum,红蝶春剑,春剑,45
+class1147,C. var. longibracteatum 'Cui Mei',C. var. longibracteatum,翠梅春剑,春剑,18
+class1148,C. var. longibracteatum 'Cui Lv Su',C. var. longibracteatum,翠绿素春剑,春剑,25
+class1149,C. var. longibracteatum 'Cui He Su',C. var. longibracteatum,翠荷素春剑,春剑,172
+class1150,C. var. longibracteatum 'Xian Zhu Sha',C. var. longibracteatum,苋朱砂春剑,春剑,262
+class1151,C. var. longibracteatum 'He Xing Shui Xian',C. var. longibracteatum,荷型水仙春剑,春剑,40
+class1152,C. var. longibracteatum 'Xi Shu Dao Guang',C. var. longibracteatum,西蜀道光春剑,春剑,588
+class1153,C. var. longibracteatum 'Xi Bu Bai Su',C. var. longibracteatum,西部白素春剑,春剑,12
+class1154,C. var. longibracteatum 'Bian Cao Se Hua',C. var. longibracteatum,边草色花春剑,春剑,10
+class1155,C. var. longibracteatum 'Tong Hai Jian Lan',C. var. longibracteatum,通海剑兰春剑,春剑,29
+class1156,C. var. longibracteatum 'Qiong Zhou Hong He',C. var. longibracteatum,邛州红荷春剑,春剑,273
+class1157,C. var. longibracteatum 'Dou Jiang Hong Su',C. var. longibracteatum,都江红素春剑,春剑,226
+class1158,C. var. longibracteatum 'Yin Gan Su',C. var. longibracteatum,银杆素春剑,春剑,375
+class1159,C. var. longibracteatum 'Long Chang Su',C. var. longibracteatum,隆昌素春剑,春剑,290
+class1160,C. var. longibracteatum 'Ya He',C. var. longibracteatum,雅荷春剑,春剑,10
+class1161,C. var. longibracteatum 'Yu Lu',C. var. longibracteatum,雨露春剑,春剑,423
+class1162,C. var. longibracteatum 'Xue Lan',C. var. longibracteatum,雪兰春剑,春剑,52
+class1163,C. var. longibracteatum 'Ni Chang Xian Zi',C. var. longibracteatum,霓裳仙子春剑,春剑,32
+class1164,C. var. longibracteatum 'Qing Cheng Cai Mei',C. var. longibracteatum,青城彩梅春剑,春剑,10
+class1165,C. var. longibracteatum 'Ling Dai Hua',C. var. longibracteatum,领带花春剑,春剑,44
+class1166,C. var. longibracteatum 'Xiang Yu Cai Hong',C. var. longibracteatum,香玉彩虹春剑,春剑,118
+class1167,C. var. longibracteatum 'Huang E',C. var. longibracteatum,黄娥春剑,春剑,40
+class1168,C. var. longibracteatum 'Huang Cao Hong Hua',C. var. longibracteatum,黄草红花春剑,春剑,32
+class1169,C. var. longibracteatum 'Long Feng Ba',C. var. longibracteatum,龙凤坝春剑,春剑,12
+class1170,C. var. longibracteatum 'Long Men Su',C. var. longibracteatum,龙门素春剑,春剑,100
+class1171,C. var. tortisepalum 'San Yuan Mei',C. var. tortisepalum,三元梅莲瓣兰,莲瓣兰,10
+class1172,C. var. tortisepalum 'San Jiang Cai Jin',C. var. tortisepalum,三江彩锦莲瓣兰,莲瓣兰,27
+class1173,C. var. tortisepalum 'Dan Ding He',C. var. tortisepalum,丹顶鹤莲瓣兰,莲瓣兰,265
+class1174,C. var. tortisepalum 'Li Jiang Xing Die',C. var. tortisepalum,丽江星蝶莲瓣兰,莲瓣兰,107
+class1175,C. var. tortisepalum 'Li Jiang Hong',C. var. tortisepalum,丽江红莲瓣兰,莲瓣兰,209
+class1176,C. var. tortisepalum 'Er Hong Su',C. var. tortisepalum,二红素莲瓣兰,莲瓣兰,137
+class1177,C. var. tortisepalum 'Yun Hai He',C. var. tortisepalum,云海荷莲瓣兰,莲瓣兰,52
+class1178,C. var. tortisepalum 'Yun Xi He',C. var. tortisepalum,云熙荷莲瓣兰,莲瓣兰,225
+class1179,C. var. tortisepalum 'Yun Long Su He',C. var. tortisepalum,云龙素荷莲瓣兰,莲瓣兰,264
+class1180,C. var. tortisepalum 'Wu Cai Die',C. var. tortisepalum,五彩蝶莲瓣兰,莲瓣兰,14
+class1181,C. var. tortisepalum 'Ren Mian Tao Hua',C. var. tortisepalum,人面桃花莲瓣兰,莲瓣兰,271
+class1182,C. var. tortisepalum 'Hui Li He',C. var. tortisepalum,会理荷莲瓣兰,莲瓣兰,83
+class1183,C. var. tortisepalum 'Yi Tian Qi Die',C. var. tortisepalum,倚天奇蝶莲瓣兰,莲瓣兰,31
+class1184,C. var. tortisepalum 'Chu Shui Fu Rong',C. var. tortisepalum,出水芙蓉莲瓣兰,莲瓣兰,150
+class1185,C. var. tortisepalum 'Jian Yang Die',C. var. tortisepalum,剑阳蝶莲瓣兰,莲瓣兰,367
+class1186,C. var. tortisepalum 'Qian Xi Mei',C. var. tortisepalum,千禧梅莲瓣兰,莲瓣兰,27
+class1187,C. var. tortisepalum 'Qian Xi Hong',C. var. tortisepalum,千禧红莲瓣兰,莲瓣兰,22
+class1188,C. var. tortisepalum 'Qian Xi He',C. var. tortisepalum,千禧荷莲瓣兰,莲瓣兰,27
+class1189,C. var. tortisepalum 'Shuang Xi He',C. var. tortisepalum,双喜荷莲瓣兰,莲瓣兰,55
+class1190,C. var. tortisepalum 'He Jia Huan',C. var. tortisepalum,合家欢莲瓣兰,莲瓣兰,21
+class1191,C. var. tortisepalum 'Ji Xiang',C. var. tortisepalum,吉祥莲瓣兰,莲瓣兰,28
+class1192,C. var. tortisepalum 'Xi Zhou Mu Dan',C. var. tortisepalum,喜洲牡丹莲瓣兰,莲瓣兰,10
+class1193,C. var. tortisepalum 'Hui Feng He',C. var. tortisepalum,回峰荷莲瓣兰,莲瓣兰,118
+class1194,C. var. tortisepalum 'Mo Xue',C. var. tortisepalum,墨血莲瓣兰,莲瓣兰,33
+class1195,C. var. tortisepalum 'Da Tang Feng Yu',C. var. tortisepalum,大唐凤羽莲瓣兰,莲瓣兰,130
+class1196,C. var. tortisepalum 'Da Xue Su',C. var. tortisepalum,大雪素莲瓣兰,莲瓣兰,296
+class1197,C. var. tortisepalum 'Tian Shi He',C. var. tortisepalum,天使荷莲瓣兰,莲瓣兰,47
+class1198,C. var. tortisepalum 'Tai Bai Su',C. var. tortisepalum,太白素莲瓣兰,莲瓣兰,135
+class1199,C. var. tortisepalum 'Qi Hua Su',C. var. tortisepalum,奇花素莲瓣兰,莲瓣兰,106
+class1200,C. var. tortisepalum 'Ru Yi Jia Ren',C. var. tortisepalum,如意佳人莲瓣兰,莲瓣兰,27
+class1201,C. var. tortisepalum 'Ru Yi Su He',C. var. tortisepalum,如意素荷莲瓣兰,莲瓣兰,359
+class1202,C. var. tortisepalum 'Ru Yi Hong He',C. var. tortisepalum,如意红荷莲瓣兰,莲瓣兰,39
+class1203,C. var. tortisepalum 'Fu Gui Su He',C. var. tortisepalum,富贵素荷莲瓣兰,莲瓣兰,11
+class1204,C. var. tortisepalum 'Xiao Xue Su',C. var. tortisepalum,小雪素莲瓣兰,莲瓣兰,333
+class1205,C. var. tortisepalum 'Xiao Long Nv',C. var. tortisepalum,小龙女莲瓣兰,莲瓣兰,189
+class1206,C. var. tortisepalum 'Qiao He',C. var. tortisepalum,巧荷莲瓣兰,莲瓣兰,119
+class1207,C. var. tortisepalum 'Xin Xin Xiang Yin',C. var. tortisepalum,心心相印莲瓣兰,莲瓣兰,552
+class1208,C. var. tortisepalum 'Xin Zhong He Ban',C. var. tortisepalum,新种荷瓣莲瓣兰,莲瓣兰,25
+class1209,C. var. tortisepalum 'Kun Hua He',C. var. tortisepalum,昆华荷莲瓣兰,莲瓣兰,83
+class1210,C. var. tortisepalum 'Xing Guang Can Lan',C. var. tortisepalum,星光灿烂莲瓣兰,莲瓣兰,105
+class1211,C. var. tortisepalum 'Ying Shan Hong',C. var. tortisepalum,映山红莲瓣兰,莲瓣兰,31
+class1212,C. var. tortisepalum 'Zhu Si Yu He',C. var. tortisepalum,朱丝玉荷莲瓣兰,莲瓣兰,250
+class1213,C. var. tortisepalum 'Shui Hong Su',C. var. tortisepalum,水红素莲瓣兰,莲瓣兰,25
+class1214,C. var. tortisepalum 'Yong Huai Su',C. var. tortisepalum,永怀素莲瓣兰,莲瓣兰,309
+class1215,C. var. tortisepalum 'Yong Chang Jin He',C. var. tortisepalum,永昌金荷莲瓣兰,莲瓣兰,214
+class1216,C. var. tortisepalum 'Cang Jiang He',C. var. tortisepalum,沧江荷莲瓣兰,莲瓣兰,64
+class1217,C. var. tortisepalum 'Dian Zhong Hong Bao',C. var. tortisepalum,滇中红宝莲瓣兰,莲瓣兰,27
+class1218,C. var. tortisepalum 'Dian Mei',C. var. tortisepalum,滇梅莲瓣兰,莲瓣兰,206
+class1219,C. var. tortisepalum 'Dian He',C. var. tortisepalum,滇荷莲瓣兰,莲瓣兰,86
+class1220,C. var. tortisepalum 'Dian Cang Mei',C. var. tortisepalum,点苍梅莲瓣兰,莲瓣兰,249
+class1221,C. var. tortisepalum 'Zhuang Yuan Mei',C. var. tortisepalum,状元梅莲瓣兰,莲瓣兰,17
+class1222,C. var. tortisepalum 'Yu Tu',C. var. tortisepalum,玉兔莲瓣兰,莲瓣兰,140
+class1223,C. var. tortisepalum 'Zhen He',C. var. tortisepalum,珍荷莲瓣兰,莲瓣兰,180
+class1224,C. var. tortisepalum 'Rui He',C. var. tortisepalum,瑞荷莲瓣兰,莲瓣兰,14
+class1225,C. var. tortisepalum 'Rui Xue',C. var. tortisepalum,瑞雪莲瓣兰,莲瓣兰,36
+class1226,C. var. tortisepalum 'Jia Qiao Chong',C. var. tortisepalum,甲壳虫莲瓣兰,莲瓣兰,23
+class1227,C. var. tortisepalum 'Bai Xue Gong Zhu',C. var. tortisepalum,白雪公主莲瓣兰,莲瓣兰,409
+class1228,C. var. tortisepalum 'Sheng Xiang Die',C. var. tortisepalum,盛祥蝶莲瓣兰,莲瓣兰,17
+class1229,C. var. tortisepalum 'Bi Yu Su',C. var. tortisepalum,碧玉素莲瓣兰,莲瓣兰,153
+class1230,C. var. tortisepalum 'Bi Su He',C. var. tortisepalum,碧素荷莲瓣兰,莲瓣兰,29
+class1231,C. var. tortisepalum 'Bi Long Qi Die',C. var. tortisepalum,碧龙奇蝶莲瓣兰,莲瓣兰,22
+class1232,C. var. tortisepalum 'Bi Long Shou Mei',C. var. tortisepalum,碧龙寿梅莲瓣兰,莲瓣兰,28
+class1233,C. var. tortisepalum 'Bi Long Hong Su',C. var. tortisepalum,碧龙红素莲瓣兰,莲瓣兰,346
+class1234,C. var. tortisepalum 'Bi Long Ju',C. var. tortisepalum,碧龙菊莲瓣兰,莲瓣兰,11
+class1235,C. var. tortisepalum 'Xiu He Su',C. var. tortisepalum,秀荷素莲瓣兰,莲瓣兰,75
+class1236,C. var. tortisepalum 'Fen He',C. var. tortisepalum,粉荷莲瓣兰,莲瓣兰,379
+class1237,C. var. tortisepalum 'Su Guan He Ding',C. var. tortisepalum,素冠荷鼎莲瓣兰,莲瓣兰,122
+class1238,C. var. tortisepalum 'Zi Xi He',C. var. tortisepalum,紫熙荷莲瓣兰,莲瓣兰,299
+class1239,C. var. tortisepalum 'Hong Man Tian',C. var. tortisepalum,红满天莲瓣兰,莲瓣兰,327
+class1240,C. var. tortisepalum 'Hong Yun Su',C. var. tortisepalum,红韵素莲瓣兰,莲瓣兰,306
+class1241,C. var. tortisepalum 'Yang Zhi Bai Yu',C. var. tortisepalum,羊脂白玉莲瓣兰,莲瓣兰,51
+class1242,C. var. tortisepalum 'Cang Shan Qi Die',C. var. tortisepalum,苍山奇蝶莲瓣兰,莲瓣兰,114
+class1243,C. var. tortisepalum 'Dang Shan He',C. var. tortisepalum,荡山荷莲瓣兰,莲瓣兰,326
+class1244,C. var. tortisepalum 'He Zhi Guan',C. var. tortisepalum,荷之冠莲瓣兰,莲瓣兰,426
+class1245,C. var. tortisepalum 'Jin Sha Shu Ju',C. var. tortisepalum,金沙树菊莲瓣兰,莲瓣兰,351
+class1246,C. var. tortisepalum 'Jin Sha Mu Dan',C. var. tortisepalum,金沙牡丹莲瓣兰,莲瓣兰,61
+class1247,C. var. tortisepalum 'Jin Huang Su',C. var. tortisepalum,金黄素莲瓣兰,莲瓣兰,43
+class1248,C. var. tortisepalum 'Jin Shang Tian Hua',C. var. tortisepalum,锦上添花莲瓣兰,莲瓣兰,12
+class1249,C. var. tortisepalum 'Jin Xiu He Shan',C. var. tortisepalum,锦绣河山莲瓣兰,莲瓣兰,21
+class1250,C. var. tortisepalum 'Xue Ren',C. var. tortisepalum,雪人莲瓣兰,莲瓣兰,156
+class1251,C. var. tortisepalum 'Xue Li Hong',C. var. tortisepalum,雪里红莲瓣兰,莲瓣兰,26
+class1252,C. var. tortisepalum 'Piao Yang He',C. var. tortisepalum,飘洋荷莲瓣兰,莲瓣兰,39
+class1253,C. var. tortisepalum 'Xin Hai Die',C. var. tortisepalum,馨海蝶莲瓣兰,莲瓣兰,155
+class1254,C. var. tortisepalum 'Gao Pin Su',C. var. tortisepalum,高品素莲瓣兰,莲瓣兰,126
+class1255,C. var. tortisepalum 'Huang Jin Hai An',C. var. tortisepalum,黄金海岸莲瓣兰,莲瓣兰,63
+class1256,C. var. tortisepalum 'Long Pao',C. var. tortisepalum,龙袍莲瓣兰,莲瓣兰,10
+class1257,C. var. serratum 'Tai Ji Sheng Mei',C. var. serratum,太极圣梅豆瓣兰,豆瓣兰,17
+class1258,C. var. serratum 'Xin Pin',C. var. serratum,新品豆瓣兰,豆瓣兰,107
+class1259,C. var. serratum 'Dian Zhong Xu Guang',C. var. serratum,滇中旭光豆瓣兰,豆瓣兰,35
+class1260,C. var. serratum 'Yu Feng',C. var. serratum,玉峰豆瓣兰,豆瓣兰,12
+class1261,C. var. serratum 'Su He',C. var. serratum,素荷豆瓣兰,豆瓣兰,46
+class1262,C. var. serratum 'Hong Shuang Xi',C. var. serratum,红双喜豆瓣兰,豆瓣兰,332
+class1263,C. var. serratum 'Hong Ta Sheng Dian',C. var. serratum,红塔盛典豆瓣兰,豆瓣兰,15
+class1264,C. var. serratum 'Hong Tai Yang',C. var. serratum,红太阳豆瓣兰,豆瓣兰,32
+class1265,C. var. serratum 'Hong He Hong',C. var. serratum,红河红豆瓣兰,豆瓣兰,225
+class1266,C. var. serratum 'Hong She',C. var. serratum,红舌豆瓣兰,豆瓣兰,53
+class1267,C. var. serratum 'Cui Yi Pin',C. var. serratum,翠一品豆瓣兰,豆瓣兰,60
+class1268,C. var. serratum 'Cui Yu Mei',C. var. serratum,翠玉梅豆瓣兰,豆瓣兰,10
+class1269,,C. lancifolium,,兔耳兰,452
+class1270,,C. hybrid,,大花蕙兰,429
+class1271,,C. floribundum,,多花兰,404
+class1272,,C. szechuanicum,,送春,1070
+class1273,,Non-Cymbidium Orchidaceae plants,,兰科非兰属植物,973
+class1274,,Non-Orchidaceae plants,,非兰科植物,1036

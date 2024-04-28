@@ -1,0 +1,22 @@
+_BASE_: "../base-finetune.yaml"
+OUTPUT_DIR: "output"
+
+DATA:
+  NAME: "orchid"
+  DATAPATH: "datasets/orchid2024"
+  NUMBER_CLASSES: 1275
+  FEATURE: "sup_vitb16_imagenet21k"
+  MULTILABEL: False
+  BATCH_SIZE: 32
+MODEL:
+  TRANSFER_TYPE: "partial-2"
+  TYPE: "vit"
+  MODEL_ROOT: "model/pretrain"
+  SAVE_CKPT: True
+  # WEIGHT_PATH: "last_model.pth"
+SOLVER:
+  BASE_LR: 0.001
+  WARMUP_EPOCH: 10
+  WEIGHT_DECAY: 0.00001
+  TOTAL_EPOCH: 100
+SEED: 0
