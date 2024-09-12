@@ -37,5 +37,5 @@ def main(dataset_path:str):
 
 
 if __name__ == '__main__':
-    dataset_path = "datasets/orchid2024"
+    dataset_path = "datasets/Orchid2024"
     main(dataset_path)
